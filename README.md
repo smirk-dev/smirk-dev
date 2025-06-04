@@ -7,17 +7,17 @@
 
 - 🔭 I’m currently working on **Machine Learning**
 
-- 👯 I’m looking to collaborate on [Nebula](www.nebulastock.vercel.app)
+- 👯 I’m looking to collaborate on [Nebula](https://www.nebulastock.vercel.app)
 
-- 🤝 I’m looking for help with [Nebula](www.nebulastock.vercel.app)
+- 🤝 I’m looking for help with [Nebula](https://www.nebulastock.vercel.app)
 
-- 👨‍💻 All of my projects are available at [suryanshmishra.vercel.app](www.suryanshmishra.vercel.app)
+- 👨‍💻 All of my projects are available at [suryanshmishra.vercel.app](https://www.suryanshmishra.vercel.app)
 
-- 📝 I regularly write on [bonfireblog.vercel.app](www.bonfireblog.vercel.app)
+- 📝 I regularly write on [bonfireblog.vercel.app](https://www.bonfireblog.vercel.app)
 
 - 📫 How to reach me **suryansh.mishra.sm6@gmail.com**
 
-- 📄 Know about my experiences [suryanshmishra.vercel.app](www.suryanshmishra.vercel.app)
+- 📄 Know about my experiences [suryanshmishra.vercel.app](https://www.suryanshmishra.vercel.app)
 
 - ⚡ Fun fact **I am a Hyper-Realism Artist**
 
