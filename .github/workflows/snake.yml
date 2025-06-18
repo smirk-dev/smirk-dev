@@ -20,33 +20,31 @@ jobs:
   build:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
+    
+    # Add permissions for the GITHUB_TOKEN
+    permissions:
+      contents: write
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v4
       
       # Generates the snake  
-      - uses: Platane/snk@v3
-        id: snake-gif
+      - name: Generate snake game from github contribution grid
+        uses: Platane/snk@v3
         with:
           github_user_name: smirk-dev
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8cc8ff,#64a1f4,#4c7be1,#3470dc&color_empty=#161b22
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
-      # Push the content to the output branch
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
-          force: true
-          
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      # Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
