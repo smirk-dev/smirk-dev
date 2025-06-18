@@ -150,8 +150,9 @@ hobbies: ["Digital Art", "Photography", "Tech Blogging"]
 
 <div align="center">
 
-[![ML Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=machine-learning-portfolio&theme=tokyonight&hide_border=true)](https://github.com/smirk-dev/machine-learning-portfolio)
-[![Web App](https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=react-portfolio&theme=tokyonight&hide_border=true)](https://github.com/smirk-dev/react-portfolio)
+[![Main-Website](https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=Main-Website&theme=tokyonight&hide_border=true)](https://github.com/smirk-dev/Main-Website)
+[![Fake Job Listing Detection AI](https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=AnveshanHackathonModelBuildersDS1&theme=tokyonight&hide_border=true)](https://github.com/smirk-dev/AnveshanHackathonModelBuildersDS1)
+[![21DaysOfCode-2025](https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=21DaysOfCode-2025&theme=tokyonight&hide_border=true)](https://github.com/smirk-dev/21DaysOfCode-2025)
 
 </div>
 
