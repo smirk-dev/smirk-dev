@@ -16,7 +16,7 @@
 
 ```yaml
 name: Suryansh Mishra
-location: ["India", "Remote"]
+location: ["Noida", "India"]
 current_focus: "Machine Learning & AI"
 website: "suryanshmishra.vercel.app"
 blog: "bonfireblog.vercel.app"
