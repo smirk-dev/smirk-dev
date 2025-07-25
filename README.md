@@ -150,7 +150,7 @@ hobbies: ["Digital Art", "Photography", "Tech Blogging"]
 
 <div align="center">
 
-[![Main-Website](https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=Main-Website&theme=tokyonight&hide_border=true)](https://github.com/smirk-dev/Main-Website)
+[![Guide-to-levelling-up-on-Github](https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=Guide-to-levelling-up-on-Github&theme=tokyonight&hide_border=true)](https://github.com/smirk-dev/Guide-to-levelling-up-on-Github)
 [![Fake Job Listing Detection AI](https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=AnveshanHackathonModelBuildersDS1&theme=tokyonight&hide_border=true)](https://github.com/smirk-dev/AnveshanHackathonModelBuildersDS1)
 [![100DaysOfCode-2025](https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=100DaysOfCode-2025&theme=tokyonight&hide_border=true)](https://github.com/smirk-dev/100DaysOfCode-2025)
 
