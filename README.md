@@ -150,11 +150,33 @@ hobbies: ["Digital Art", "Photography", "Tech Blogging"]
 
 <div align="center">
 
-[![How to Level Up on Github Guide](https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=Guide-to-levelling-up-on-Github&theme=tokyonight&hide_border=true)](https://github.com/smirk-dev/Guide-to-levelling-up-on-Github)
-[![AI for Fraud Job Listings](https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=Spot-The-Scam-AI&theme=tokyonight&hide_border=true)](https://github.com/smirk-dev/Spot-The-Scam-AI)
-[![DSA](https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=100DaysOfCode-2025&theme=tokyonight&hide_border=true)](https://github.com/smirk-dev/100DaysOfCode-2025)
 
-[![VideoCraft](https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=VideoCraft&theme=tokyonight&hide_border=true)](https://github.com/smirk-dev/VideoCraft)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/smirk-dev/Guide-to-levelling-up-on-Github">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=Guide-to-levelling-up-on-Github&theme=tokyonight&hide_border=true" alt="Guide to levelling up on Github"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/smirk-dev/Spot-The-Scam-AI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=Spot-The-Scam-AI&theme=tokyonight&hide_border=true" alt="Spot The Scam AI"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/smirk-dev/100DaysOfCode-2025">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=100DaysOfCode-2025&theme=tokyonight&hide_border=true" alt="100DaysOfCode-2025"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/smirk-dev/VideoCraft">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=VideoCraft&theme=tokyonight&hide_border=true" alt="VideoCraft"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
