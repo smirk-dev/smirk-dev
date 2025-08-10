@@ -154,6 +154,8 @@ hobbies: ["Digital Art", "Photography", "Tech Blogging"]
 [![AI for Fraud Job Listings](https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=Spot-The-Scam-AI&theme=tokyonight&hide_border=true)](https://github.com/smirk-dev/Spot-The-Scam-AI)
 [![DSA](https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=100DaysOfCode-2025&theme=tokyonight&hide_border=true)](https://github.com/smirk-dev/100DaysOfCode-2025)
 
+[![VideoCraft](https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=VideoCraft&theme=tokyonight&hide_border=true)](https://github.com/smirk-dev/VideoCraft)
+
 </div>
 
 ---
