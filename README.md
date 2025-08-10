@@ -59,6 +59,18 @@ hobbies: ["Digital Art", "Photography", "Tech Blogging"]
 
 ---
 
+## 🎨 Featured Projects
+
+<div align="center">
+
+[![How to Level Up on Github Guide](https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=Guide-to-levelling-up-on-Github&theme=tokyonight&hide_border=true)](https://github.com/smirk-dev/Guide-to-levelling-up-on-Github)
+[![AI for Fraud Job Listings](https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=Spot-The-Scam-AI&theme=tokyonight&hide_border=true)](https://github.com/smirk-dev/Spot-The-Scam-AI)
+[![DSA](https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=100DaysOfCode-2025&theme=tokyonight&hide_border=true)](https://github.com/smirk-dev/100DaysOfCode-2025)
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -137,18 +149,6 @@ hobbies: ["Digital Art", "Photography", "Tech Blogging"]
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" />
-</div>
-
----
-
-## 🎨 Featured Projects
-
-<div align="center">
-
-[![How to Level Up on Github Guide](https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=Guide-to-levelling-up-on-Github&theme=tokyonight&hide_border=true)](https://github.com/smirk-dev/Guide-to-levelling-up-on-Github)
-[![AI for Fraud Job Listings](https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=Spot-The-Scam-AI&theme=tokyonight&hide_border=true)](https://github.com/smirk-dev/Spot-The-Scam-AI)
-[![DSA](https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=100DaysOfCode-2025&theme=tokyonight&hide_border=true)](https://github.com/smirk-dev/100DaysOfCode-2025)
-
 </div>
 
 ---
