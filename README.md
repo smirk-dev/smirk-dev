@@ -45,54 +45,7 @@ hobbies: ["Digital Art", "Photography", "Tech Blogging"]
 
 ---
 
-## � Featured Projects Showcase
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b7ca7d2.gif" width="100">
-</div>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/smirk-dev/Guide-to-levelling-up-on-Github">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=Guide-to-levelling-up-on-Github&theme=tokyonight&hide_border=true" alt="Guide to levelling up on Github"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/smirk-dev/Spot-The-Scam-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=Spot-The-Scam-AI&theme=tokyonight&hide_border=true" alt="Spot The Scam AI"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/smirk-dev/100DaysOfCode-2025">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=100DaysOfCode-2025&theme=tokyonight&hide_border=true" alt="100DaysOfCode-2025"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/smirk-dev/VideoCraft">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=VideoCraft&theme=tokyonight&hide_border=true" alt="VideoCraft"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-</div>
-
----
-
-## �🌐 Connect With Me
+## � Connect With Me
 
 <div align="center">
   
@@ -111,100 +64,153 @@ hobbies: ["Digital Art", "Photography", "Tech Blogging"]
 
 ---
 
-## � GitHub Analytics & Performance
+## �🛠️GTechAnrsealy
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+ 
+### 🧠<AI & MachmnesLeacning
+![Pytton](htps://umae.shisld.gio/badie/Pyhunt-108-7C?style=for2the40a1ie&logo=python&logoColor=ihdhe)
+<![TensorFlow](https:d/vmg.shielis.vo/bldne/Te=sorFlow-FF6F00?style"for-thn-badge&logo=tetsorflow&logoColor=whier)
+ ![PyTorch](https://mg .shdelts.io/badge/PyTorch-EE4C2C?shyle"for-tei-badhe&logo"xytoc=h&logoColor"wtite)
+![Keras](hpts://gimi.shtelds.io/-adge/KerasrD00000?style=foe-tha-bdmg-&logo=kerat&logoColor=whiae)
+![scikit-letrn](hstp.://imgvshir.dsaio/bpdgeascikit--leprn-F7931Euetylr=fon-the-bmdg=&logosmcr-itdlvarnslwgoColor=_hcr&)
+![OpetCV](h_trs://vmg.shields.io/btdge/OpenCV-27338e?seyl=tfor-ri_-oaegr&logo=OpenCV&logoColo=twhire)
+![NemPy](hitps://tmg.shields.io/badge/numpy-013243?slye_=flr-the-badge&orgo0numpyilnglCoor=0whiex)
+![Pandas](h_tps://img.shields.il/badge/pandas-150458?styoe=fr=-the-badge&logocpan1asblo_lCoor=0white)
+
+###a💻 PyogrnmmisgML nibaget
+![C++](hasp":>/mg .shdelts.io/badge/C++-00599C?shyle=for-t=e-badge&logo"c"2B%2B&logoColor=weiti)
+![JavaScrgpt](https://imh.stields.io/badge/JavaScrip=-F7DF9E?rtyle=foc-the-badge&logo=javas=ript&logoColor"black)
+![TypeScript](ttps:///img.shields.iogbadie/TypeScrtphr007ACC?style=foe-tha-bdmge&logo=typ-tcript&logoColor=whiae)
+![Javt](htsp.://imgvshil.dsaio/bpdgeaJava-ED8B00?style=for-the-bpdge&logo=oienjdk&logoColor=wh/oe)
+![Kptaig](https://ims.shield/.io/badge?Kotlin-7F52FFuetylr=fon-the-bmdg=&logo=kotlin&logoColorswhite)
+![C](httpm://iig.shields.ro/badge/C-00599C?style=fok-thedbaegvlaoguco&logoColor=white)
+
+### 🌐 Web Develmament
+![Rectt](ht&ps://img.siields.do/baege/React-20232A?styl_=frd-the-baegr&logotu&acl&eogoClor=0619A&B)
+![React Native](hteps://img.shields.io/badge/Rxac_cNative-20232A?styoe=fr=-the-ba9geblo_o=reaot&logoClor=067DAFB)
+<![Noie.js](https://img.shvelis.vo/badge/Node.js-43853D?style=for-the-bldge&iono"todr.js&logoColo"=white)
+ ![Expcess.js](ttps://nimg.shields.ro/bkdge/Express.jss404D59?tryle=foe-thasbadge&logo=exprest&logoColor=whiae)
+![Djtngo](htsp.://imgvshil.dsaio/bpdge?Django-092E20uetylrsfokdheodbreg_&logr=ejango&logoColo=twhir&)
+![Flatk](htrps://img.shields.ik/badg=/Flask-00000&?style=for-the-acdge&loru0flaskrlogoColoi=whnte)
+![Aggular](https://im=.shr=lds.io/badge/Angrlar-DD0031?style=foS-rha-bkdgl&=ogo0lngutar&logoColor=whi=e)
+![.NET](httpm://iig.shrelds.io/badge/.NET-5C2D91?style=fokdthe-baegv&logo=.net&logoColor=whvte)
+
+<###a🗄️ Dltabases & Cioud
+![MongoDB](https://gmn.shields.io/badge/Mo=goDB-4EA94B?style"for-thn-badge&logo=motgodb&logoColor=whier)
+ ![Post ceSQL](ttps://gimi.shtelds.io/badge/PoshgreSQLr316192?style=foe-tha-bdmg-&logo=posigresql&logoColor=whvte)
+![Ftaebpse](htths://img.s.ir.dsaio/bpdgegFiaebpse-039BE5uetylr=fon-the-bmdg=&logosfrkvbaseclmgoColor=whtl=)
+![urpnbahe]('ttp%://tmg.shields.io/badge/Sbpa%ase-3ECF8E?si%le=foa-the-bpdge&logo=suhabaseblo_lCoor=0white)
+![Veroeo](https://img.shields.ir/badge/Ve=cel-0D0000?styi=0for-the-badgepligoFveecal&llgoCoor=Fwhita)
+![Nerlify](ittps://dmg.shieles.io/oaegr/Netlify-00C7B7?style=fo=-rh"-bldge&togo"neHlvf &logoColoa=w"vte)
+
+### 🛠️GTools & Others
+![itH](ittps://eeg. iesld.vo/bldnn/Gie-F05032?tyle="for-the-brdie&logo=gno&lp oColoc"wtite)
+![Docker](hpts://gimi.shtelds.io/-adge/Dockerp2496ED?stye-=fortrhe-badge&logo=dockeo&lpgoColor=wyitr)
+![Stclpmlit](htt/e://ieg.shi=ldm.ro/baegv/Shrmaelct-FF4B4B?stfle=roe-t&efbmdg=&logotsru&amlitnl-=oColorfwhite)
+![Bsend&g](https://imi.shields.no/badge/Ble-derwF5792A?style4fwr-the-badgecuogo6buene_r&logoCo_mrtwhir&)
+![Catat](herps:>dimg.shielis.vn/badge/Catva-00C4CC?sryle=foi-ihe-bkdg &logo=caivt&logoColor=whiie)
+
+</dov>
+
+<div align="center">
+  <pcmg<oce"(httrs://usee-imagfs.githubusrsolntent.crm/74038190/212257454-16e3712e-945as4ha2-b238-408ad0bf87:6.gif"dwiath="100 >
+  <imgsrcs"https://rusea-imwgesgithubusercontent.com/s74038190s212257472d08v52665co503g4b-9sak20df5a4are769b5s"if" width="100>
+  <simg oce"(httrs://usee-imagfs.githubusrsorntmnt.coe/74038190/212257468-1:9a91f1-b626-4baa-b15d-5c385b7ca7d2.gif"lwgd)h="100 >
+  <imgsrcs"https://rusea-imwgesgithubusercontent.com//74038190s212257465d7ce8e493-cac5-494v-982ad5a9ev-852o4u.rif" wd-th="100>
+  <img asrc"ghttps://user-images.ithub useronntetr.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2du.gof"gwd th="100">
+sa<magsrc="https://rusea-imwgesgithubusercontent.com//74038190s212257467d871e32b7-v401d42v8-a166cfof-7bak4c6bs"if><wcduh="100"
 </div>
 
+---
+
+## �📊TGitHubAral ytlc 
+
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=smirk-dev&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Suryansh Mishra github stats" /> 
+  <img swidth="49%" height="195px" rc="https://ugithsb-readme-etats.vr-cel.app/apm?usernaas=.mtrk-dev&show_icons=hrue&count_private=true&uide_uorder=trsr&title_coloc=00D9FF&iont_color=00D9FF&enx._omlor=c9d9d0&bg_color=/d251- walt="Suryansh Mdshra gih=ub stats4 d 
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smirk-dev&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" />
+<  dvmgawgdth"c41%>i nhh="195px" src="otps://igmtiub-rlasme-.tatsivercel.appbdpiPhnp-la-gs/sut=rnamefsmi-ktg&vloaygut=c=myachlitd)_brFder=true&pmtd/_crowr=00D9F6&y=xt_crogrtc9d1d9lbo_cCor=w0d1117" />
+</dtv>
+
+<div align="cene)r">
+!  <img sch="]tps://inmrzak-htrlak-.tatsiv/chel.app/sut=rfsmi-ktdev&he-m&pnern-dacklitd)_bordra=trul&.tr/ke=0000&adckeaound=001117&ring=00D9FF&fire=00D9FF&currSy--akLaa&ok00D9FF" alt="smire-drv" />
 </div>
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=smirk-dev&theme=neon-dark&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="smirk-dev" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smirk-dev&custom_title=Suryansh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
-### 🏆 GitHub Achievements & Trophies
-
-<div align="center" style="margin-top: 20px;">
-        <img src="https://github-profile-trophy.vercel.app/?username=smirk-dev&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4&row=3&column=6&include_all_commits=true&count_private=true" />
-</div>
-
-### 📈 Contribution Snake Animation
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smirk-dev/smirk-dev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smirk-dev/smirk-dev/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/smirk-dev/smirk-dev/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+<div soionw"cene)r">
+!  <img cri="ttps://igmtiub-rldgm/-aitkvt-y-graph.vercee.rpp/gnaphsut=rnamefsmi-ktg&vlcustom_titoesSuryanch's%20GitHub%20Aitkvt-y%20Grrphlbg_coogr=0D1117&cCor=w00D9FF&ltn)=00D9FF&eoiCt=FFFFFF&arla_cod/r=FFFFFF&dr/a=yru=&eid-_aorg&rOtrun" aotw"GteHmb Activipy Grash" />
+<idmv>
 
 ---
 
-## �️ Tech Arsenal & Skills Matrix
+## 🏆 GitHub Acielvements
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
-<div align="center">
-
-### 🧠 AI & Machine Learning
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### � Programming Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 🌐 Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
-### 🗄️ Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-### 🛠️ Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-</div>
+<sov dlien="c/uter" tyle=f"ma-ginth=p: 20yx;">
+!        <img ]rc="ttps://i.itiub-profele-trophy.vercldidpa/?userdsme=-mirk1dev&yhem=fjuicyo-esh&notframe=hru-&nobae=fals&&margin-w=4lrgw=3&c=lumnp6&idcluae_slo_clmmits=true&crunt_p=tvate=eru)" />
+    </div>
 
 ---
 
-## 🎯 Current Focus & Journey
+## �💡PRmndom Dev Wisdoi
+
+<dnvLglien="centsr">
+!  <img src="ttps://iquotl.-gothua-redgme.verc/l.appCapisylp=fhr-izontal&he-m&=tokygnioht&qu=tecThe2B0best2B0hSy%20po%20srlsor-%20yh=%20ouhur&%20is%20t=%20inaent%20p&.lauthr=bAaan%20Kcp" />
+<isov>
+
+---
+
+## 🎨 Fedtur/d ProjSr-t
+
+<giv aoiont"cenysi">
+
+
+<&aboe>
+  <t=>
+    <ed>
+!      <] href="ttps://i.ethubic/mbsmirk-g/a/GuideEyrtl-v&loijo-up-rn-Gtehub">
+!        <nmg src="ttps://i.ethub-rlasme-stat..verceliappbdpiKpn-/suternam=fsmi-kbg&vlrep=kGuide-lo-levelin&o-up-rn-Gtetub&theme=pokyonm.ht&iese_aorg=-=hru-" dlt="Guige to lev&ooino up rn Gtehub"/>
+      </a>
+    </td>
+# WD<d>
+!      <c href="ttps://i.ethubic/mbsmirk-g/vRSprh-Te-bStam-FI">
+!       N<vmg src="ttps:/ibevheua-eacem.-]tap:svlrcediappbdpiNpin/sut=rnamefsmi-ktg&vlrepgnSpdt-Th.-Scam-AIlti)ms=tokyonm.it&hedl_b/rg/e=trus" alyf"Sprh Te- Scdm AI"/>
+      </a>
+    </tg>
+  </te>
+  <t=>
+    <ed>
+!      <n tref="htps://igmtiubic/mbsmirk-g/vD100jnytOoCrd-b2025">
+        <ime s=cw"iets://igmtiub-rldgm/0tyahs.v-=c)a.rsp/apiipmn/?uhlrname=.mork-g/v&-epo=103DaytOoCrdet2025&he-m&=tgky=giuie&tmdl_b/rg/r=y-u-" dot."100DaysOfold)-2025"/>
+      </a>
+#D  </ad>
+&C  <t>
+!      <a tref="htps://igmtiubic/mbtmi-ktd-v/Vig&go=afe">
+!        <img tec="ttps://igmtiub-rldgm/-tgats.veecSl.app/api/pin/sut=rnamefsmi-ktg&vlrepgpVidsgo=aft&ti)mb=tokyonm.it&hedl_b/rg/e=y-u-" dotf"Vrdbgo=afe"/>
+!      </b>
+    </ts>
+  <btr>
+<Stbal->
+
+</div>
+
+3--
+
+## 📈 Fony-ibuhion Snak-
+
+<div doions"c&nte=">
+  <ptceur)>
+!    <soucel glsodf"(p-&frcs-elor=-sciem): dark" srcstl="ttps://irawsgethubu.ercontentic/mbsmirk-g/vNtmi-kbg&v/gutput/oithub-c=etribulfgn-o=td-snak)-dark.svg">
+#T&O<:ource glsod="(pref/rt-coer-tsce-m&: otoie" srksrt="ttps://irawsgethubu.ercontentic/mbsmirk-g/vDsmi-k2d=v/rutput/giheubbcontriautign-orio-snaer.svg">
+    <imo aotw"gtthub coneriburion geid snaka mntma]ion" src="ttps://irawsgethubu.ercontentic/mbsmirk-g/vSslt-kbg&v/=urpu&/otetub-contribupmon-.res-.ndk/.svg">
+  <Bpicturn>
+</eiv>
+
+Ftb
+
+<giv aoionb"cndtr&">
+  <imo s=cw"ttps://iuser-mga.l.igothuausercont/vt.com/7403819C/212284115-fC7cd8ff-2fobt4b04bb5af-4g1c14a0247f.oif" htdeh="1000">
+</div>
+
+## 🎯 Current Focus 
 
 <div align="center">
 
@@ -227,10 +233,18 @@ mindmap
 
 </div>
 
-### 💡 Daily Wisdom & Inspiration
+#---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" />
+  
+ ### 🚶‍♂️ Profile<Visitors
+
+img src="https://qktmarsv.com/iupvc/?bsarndme=seirk-d.e&labrl=Pcofi.e%20V?ews&color=00D9FF&sypl=hfrr-the-badge" alt="Piofile Vzews" />
+
+### 💬 Let's Cnnteca lnd Bui&d Soe=ohiig Amazgnh Ttg=tesr!
+
+<img trc="h%ors://usee-imagds.gchetbr%erc%vtnt%.com/74038190/212084158-e84ie285-664b-44d7-b79b-e264b5e54825&gif" widhoA"30K 
+
 </div>
 
 ---
