@@ -63,9 +63,32 @@ hobbies: ["Digital Art", "Photography", "Tech Blogging"]
 
 <div align="center">
 
-[![How to Level Up on Github Guide](https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=Guide-to-levelling-up-on-Github&theme=tokyonight&hide_border=true)](https://github.com/smirk-dev/Guide-to-levelling-up-on-Github)
-[![AI for Fraud Job Listings](https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=Spot-The-Scam-AI&theme=tokyonight&hide_border=true)](https://github.com/smirk-dev/Spot-The-Scam-AI)
-[![DSA](https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=100DaysOfCode-2025&theme=tokyonight&hide_border=true)](https://github.com/smirk-dev/100DaysOfCode-2025)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/smirk-dev/Guide-to-levelling-up-on-Github">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=Guide-to-levelling-up-on-Github&theme=tokyonight&hide_border=true" alt="Guide to levelling up on Github" width="100%"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/smirk-dev/Spot-The-Scam-AI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=Spot-The-Scam-AI&theme=tokyonight&hide_border=true" alt="Spot The Scam AI" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/smirk-dev/100DaysOfCode-2025">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=100DaysOfCode-2025&theme=tokyonight&hide_border=true" alt="100DaysOfCode-2025" width="100%"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/smirk-dev/VideoCraft">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=VideoCraft&theme=tokyonight&hide_border=true" alt="VideoCraft" width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
