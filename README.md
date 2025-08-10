@@ -1,23 +1,11 @@
-<div align="center">
-  <img src="https://capsuld-ontdr".vrcel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20Universe&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=65"/>
-</div>
-
-# <div align="center">🚀 Suryansh Mishra | ML Engineer & Hyper-Realism Artist 🎨</div>
+ < Suryansh Mishra | ML Engineer & Hyper-Realism Artist 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🧠+Machine+Learning+Engineer;🎨+Hyper-Realism+Artist;💻+Full-Stack+Developer;🚀+Innovation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=achine+Learning+Engineer;yper-Realism+Artist;ull-Stack+Developer; alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-<div align="center">
-  
-### 🚶‍♂️ Profile Visitors Counter
-
-<img src="https://komarev.com/ghpvc/?username=smirk-dev&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900D 
 </div>
 
 ---
@@ -160,34 +148,10 @@ sa<magsrc="https://rusea-imwgesgithubusercontent.com//74038190s212257467d871e32b
 
 ## 🎨 Fedtur/d ProjSr-t
 
-<giv aoiont"cenysi">
+<giv aoiont"cenys[![H.w a/ Lidey U& oi o-up-r
+Gu de](nmg src="ttps://i.ethub-rlasme-stat..verceliappbdpiKpn-/suternam=fsmi-kbg&vlrep=kGuide-lo-levelin&o-up-rn-Gtetub&theme=pokyonm.ht&iese_-g)]( c href="ttps://i.ethubic/mbsGuide-tr-lvvellingRup-on-Github)St[![AIIfor"Fraud>JobList!n  ](<vmg src="ttps:/ibevheua-eacem.-]tap:svlrcediappbdpiNpin/sut=rnamefsmi-ktg&vlrepgnSpdt-Th.-Scam-AIlti)ms=tokyonm.it&hedl_y)](
+ <n tref="htps://igmtiubic/mSpDt-Th00Scam-AI)Cr[![DSA]( <ime s=cw"iets://igmtiub-rldgm/0tyahs.v-=c)a.rsp/apiipmn/?uhlrname=.mork-g/v&-epo=103DaytOoCrdet2025&he-m&=tgky=giuie&tmdl )](  <a tref="htps://igmtiubic/m100DaysOfCode-2025)
 
-
-<&aboe>
-  <t=>
-    <ed>
-!      <] href="ttps://i.ethubic/mbsmirk-g/a/GuideEyrtl-v&loijo-up-rn-Gtehub">
-!        <nmg src="ttps://i.ethub-rlasme-stat..verceliappbdpiKpn-/suternam=fsmi-kbg&vlrep=kGuide-lo-levelin&o-up-rn-Gtetub&theme=pokyonm.ht&iese_aorg=-=hru-" dlt="Guige to lev&ooino up rn Gtehub"/>
-      </a>
-    </td>
-# WD<d>
-!      <c href="ttps://i.ethubic/mbsmirk-g/vRSprh-Te-bStam-FI">
-!       N<vmg src="ttps:/ibevheua-eacem.-]tap:svlrcediappbdpiNpin/sut=rnamefsmi-ktg&vlrepgnSpdt-Th.-Scam-AIlti)ms=tokyonm.it&hedl_b/rg/e=trus" alyf"Sprh Te- Scdm AI"/>
-      </a>
-    </tg>
-  </te>
-  <t=>
-    <ed>
-!      <n tref="htps://igmtiubic/mbsmirk-g/vD100jnytOoCrd-b2025">
-        <ime s=cw"iets://igmtiub-rldgm/0tyahs.v-=c)a.rsp/apiipmn/?uhlrname=.mork-g/v&-epo=103DaytOoCrdet2025&he-m&=tgky=giuie&tmdl_b/rg/r=y-u-" dot."100DaysOfold)-2025"/>
-      </a>
-#D  </ad>
-&C  <t>
-!      <a tref="htps://igmtiubic/mbtmi-ktd-v/Vig&go=afe">
-!        <img tec="ttps://igmtiub-rldgm/-tgats.veecSl.app/api/pin/sut=rnamefsmi-ktg&vlrepgpVidsgo=aft&ti)mb=tokyonm.it&hedl_b/rg/e=y-u-" dotf"Vrdbgo=afe"/>
-!      </b>
-    </ts>
-  <btr>
 <Stbal->
 
 </div>
