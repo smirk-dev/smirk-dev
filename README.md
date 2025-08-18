@@ -82,11 +82,7 @@ hobbies: ["Digital Art", "Photography", "Tech Blogging"]
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=100DaysOfCode-2025&theme=tokyonight&hide_border=true" alt="100DaysOfCode-2025" width="100%"/>
       </a>
     </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/smirk-dev/VideoCraft">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=VideoCraft&theme=tokyonight&hide_border=true" alt="VideoCraft" width="100%"/>
-      </a>
-    </td>
+    
   </tr>
 </table>
 
