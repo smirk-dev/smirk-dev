@@ -82,7 +82,11 @@ hobbies: ["Digital Art", "Photography", "Tech Blogging"]
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=BharatChain&theme=tokyonight&hide_border=true" alt="BharatChain" width="100%"/>
       </a>
     </td>
-    
+    <td align="center" width="50%">
+      <a href="https://github.com/smirk-dev/VideoCraft">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=VideoCraft&theme=tokyonight&hide_border=true" alt="VideoCraft" width="100%"/>
+      </a>
+    </td>
   </tr>
 </table>
 
