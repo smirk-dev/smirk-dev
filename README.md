@@ -78,8 +78,8 @@ hobbies: ["Digital Art", "Photography", "Tech Blogging"]
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/smirk-dev/100DaysOfCode-2025">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=100DaysOfCode-2025&theme=tokyonight&hide_border=true" alt="100DaysOfCode-2025" width="100%"/>
+      <a href="https://github.com/smirk-dev/BharatChain">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=BharatChain&theme=tokyonight&hide_border=true" alt="BharatChain" width="100%"/>
       </a>
     </td>
     <td align="center" width="50%">
