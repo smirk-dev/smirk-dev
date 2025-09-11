@@ -88,6 +88,18 @@ hobbies: ["Digital Art", "Photography", "Tech Blogging"]
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/smirk-dev/TrustNet">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=TrustNet&theme=tokyonight&hide_border=true" alt="TrustNet" width="100%"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/smirk-dev/celestia-site">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=celestia-site&theme=tokyonight&hide_border=true" alt="celestia" width="100%"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
 </div>
