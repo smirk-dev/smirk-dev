@@ -1,7 +1,7 @@
-# 🚀 Suryansh Mishra | ML Engineer & Hyper-Realism Artist
+<h1 align="center">🤖 Suryansh Mishra | New Times New Solutions</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Machine+Learning+Engineer;Hyper-Realism+Artist;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+Engineer+;Algorithmic+Hobbit" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -56,6 +56,12 @@ hobbies: ["Digital Art", "Photography", "Tech Blogging"]
 <div align="center" style="margin-top: 20px;">
         <img src="https://trophygh.kolioaris.xyz/?username=smirk-dev&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4&row=3&column=6&include_all_commits=true&count_private=true" />
     </div>
+
+## 🔥 LeetCode Badges
+
+<div align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=smirk-dev&theme=black&animated=true" alt="LeetCode Badges" />
+</div>
 
 ---
 
