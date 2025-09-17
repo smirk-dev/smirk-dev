@@ -57,6 +57,8 @@ hobbies: ["Digital Art", "Photography", "Tech Blogging"]
         <img src="https://trophygh.kolioaris.xyz/?username=smirk-dev&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4&row=3&column=6&include_all_commits=true&count_private=true" />
     </div>
 
+---
+
 ## 🔥 LeetCode Badges
 
 <div align="center">
