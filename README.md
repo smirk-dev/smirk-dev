@@ -65,6 +65,10 @@ hobbies: ["Digital Art", "Photography", "Tech Blogging"]
 
 ---
 
+[![committers.top badge](https://user-badge.committers.top/india_private/smirk-dev.svg)](https://user-badge.committers.top/india_private/smirk-dev)
+<img src="https://komarev.com/ghpvc/?username=smirk-dev&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+---
+
 ## 🎨 Featured Projects
 
 <div align="center">
@@ -237,10 +241,6 @@ mindmap
 
 <div align="center">
   
-### 🚶‍♂️ Profile Visitors
-
-<img src="https://komarev.com/ghpvc/?username=smirk-dev&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
-
 ### 💬 Let's Connect and Build Something Amazing Together!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
