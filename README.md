@@ -50,7 +50,7 @@ hobbies: ["Digital Art", "Photography", "Tech Blogging"]
 ## 🏆 GitHub Achievements
 
 <div align="center" style="margin-top: 20px;">
-        <img src="https://github-profile-trophy.vercel.app/?username=smirk-dev&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4&row=3&column=6&include_all_commits=true&count_private=true" />
+        <img src="https://github-profile-trophy.vercel.app/?username=smirk-dev&theme=aurah&no-frame=true&no-bg=false&margin-w=4&row=3&column=6&include_all_commits=true&count_private=true" />
     </div>
 
 ---
