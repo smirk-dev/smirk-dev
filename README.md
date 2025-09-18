@@ -1,7 +1,7 @@
 <h1 align="center">🤖 Suryansh Mishra | New Times New Solutions</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+Engineer+;Algorithmic+Hobbit" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=2000&pause=500&color=B347FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+Engineer+;Algorithmic+Hobbit" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -36,9 +36,9 @@ hobbies: ["Digital Art", "Photography", "Tech Blogging"]
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=smirk-dev&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&ring_color=00D9FF&hide_rank=false&show_owner=true&rank_icon=github&custom_title=Suryansh's%20GitHub%20Stats" alt="Suryansh Mishra github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=smirk-dev&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&theme=transparent&hide_border=true&title_color=B347FF&icon_color=B347FF&text_color=c9d1d9&bg_color=0d1117&ring_color=B347FF&hide_rank=false&show_owner=true&rank_icon=github&custom_title=Suryansh's%20GitHub%20Stats" alt="Suryansh Mishra github stats" />
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smirk-dev&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8&exclude_repo=repo1,repo2&hide=html,css&card_width=320&custom_title=Most%20Used%20Languages" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smirk-dev&layout=compact&hide_border=true&title_color=B347FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8&exclude_repo=repo1,repo2&hide=html,css&card_width=320&custom_title=Most%20Used%20Languages" />
 </div>
 
 <div align="center">
