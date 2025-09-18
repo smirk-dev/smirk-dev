@@ -85,36 +85,36 @@ hobbies: ["Digital Art", "Photography", "Tech Blogging"]
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/smirk-dev/Guide-to-levelling-up-on-Github">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=Guide-to-levelling-up-on-Github&theme=tokyonight&hide_border=true" alt="Guide to levelling up on Github" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=Guide-to-levelling-up-on-Github&theme=highcontrast&hide_border=true" alt="Guide to levelling up on Github" width="100%"/>
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/smirk-dev/Spot-The-Scam-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=Spot-The-Scam-AI&theme=tokyonight&hide_border=true" alt="Spot The Scam AI" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=Spot-The-Scam-AI&theme=highcontrast&hide_border=true" alt="Spot The Scam AI" width="100%"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/smirk-dev/BharatChain">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=BharatChain&theme=tokyonight&hide_border=true" alt="BharatChain" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=BharatChain&theme=highcontrast&hide_border=true" alt="BharatChain" width="100%"/>
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/smirk-dev/VideoCraft">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=VideoCraft&theme=tokyonight&hide_border=true" alt="VideoCraft" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=VideoCraft&theme=highcontrast&hide_border=true" alt="VideoCraft" width="100%"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/smirk-dev/TrustNet">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=TrustNet&theme=tokyonight&hide_border=true" alt="TrustNet" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=TrustNet&theme=highcontrast&hide_border=true" alt="TrustNet" width="100%"/>
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/smirk-dev/celestia-site">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=celestia-site&theme=tokyonight&hide_border=true" alt="celestia" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=celestia-site&theme=highcontrast&hide_border=true" alt="celestia" width="100%"/>
       </a>
     </td>
   </tr>
