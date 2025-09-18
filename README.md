@@ -112,7 +112,7 @@
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://suryanshmishra.vercel.app)&nbsp;&nbsp;[![Blog](https://img.shields.io/badge/Blog-B347FF?style=for-the-badge&logo=wordpress&logoColor=white)](https://bonfireblog.vercel.app)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryansh.mishra.sm6@gmail.com)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-B347FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/connectwithsuryanshmishra)&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/suryansh.mishra_)&nbsp;&nbsp;[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/suryanshmishra1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://suryanshmishra.vercel.app)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suryansh.mishra.sm6@gmail.com)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-B347FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/connectwithsuryanshmishra)&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/suryansh.mishra_)&nbsp;&nbsp;[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/suryanshmishra1)
 
 </div>
 
