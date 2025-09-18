@@ -206,28 +206,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 
-## 🎯 Current Focus
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Suryansh))
-    AI/ML
-      Computer Vision
-      Deep Learning
-      NLP
-    Development
-      Full-Stack
-      Mobile Apps
-      Web3
-    Art
-      Hyper-Realism
-      Digital Art
-      3D Modeling
-```
-
-</div>
 
 ---
 
@@ -238,8 +216,6 @@ mindmap
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
 
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=75"/>
