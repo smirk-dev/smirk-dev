@@ -31,7 +31,19 @@ hobbies: ["Digital Art", "Photography", "Tech Blogging"]
 
 ## 📊 GitHub Analytics
 
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=smirk-dev&show_icons=true&count_private=true&include_all_commits=true&disable_animations=false&theme=transparent&hide_border=true&title_color=B347FF&icon_color=B347FF&text_color=c9d1d9&bg_color=0d1117&ring_color=B347FF&hide_rank=false&show_owner=true&rank_icon=github&custom_title=Suryansh's%20GitHub%20Stats" alt="Suryansh Mishra github stats" />
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smirk-dev&layout=compact&hide_border=true&title_color=B347FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8&exclude_repo=repo1,repo2&hide=html,css&card_width=320&custom_title=Most%20Used%20Languages" />
+</div>
 
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=smirk-dev&theme=neon-dark&hide_border=true&stroke=0000&background=0D1117&ring=B347FF&fire=B347FF&currStreakLabel=B347FF&sideNums=B347FF&currStreakNum=FFFFFF&sideLabels=c9d1d9&dates=c9d1d9&excludeDaysLabel=c9d1d9" alt="smirk-dev streak stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smirk-dev&custom_title=Suryansh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=B347FF&line=B347FF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
 
 ---
 
