@@ -27,7 +27,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=smirk-dev&custom_title=Suryansh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=B347FF&line=B347FF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
----
 
 ## 🏆 GitHub Achievements
 
@@ -35,7 +34,6 @@
         <img src="https://github-profile-trophy.vercel.app/?username=smirk-dev&theme=aura&no-frame=true&no-bg=false&margin-w=4&row=3&column=6&include_all_commits=true&count_private=true" />
     </div>
 
----
 
 ## 🔥 LeetCode Badges
 
