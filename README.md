@@ -85,36 +85,36 @@ hobbies: ["Digital Art", "Photography", "Tech Blogging"]
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/smirk-dev/Guide-to-levelling-up-on-Github">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=Guide-to-levelling-up-on-Github&theme=highcontrast&hide_border=true" alt="Guide to levelling up on Github" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=Guide-to-levelling-up-on-Github&theme=transparent&hide_border=true&title_color=B347FF&text_color=c9d1d9&bg_color=0d1117&icon_color=B347FF" alt="Guide to levelling up on Github" width="100%"/>
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/smirk-dev/Spot-The-Scam-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=Spot-The-Scam-AI&theme=highcontrast&hide_border=true" alt="Spot The Scam AI" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=Spot-The-Scam-AI&theme=transparent&hide_border=true&title_color=B347FF&text_color=c9d1d9&bg_color=0d1117&icon_color=B347FF" alt="Spot The Scam AI" width="100%"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/smirk-dev/BharatChain">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=BharatChain&theme=highcontrast&hide_border=true" alt="BharatChain" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=BharatChain&theme=transparent&hide_border=true&title_color=B347FF&text_color=c9d1d9&bg_color=0d1117&icon_color=B347FF" alt="BharatChain" width="100%"/>
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/smirk-dev/VideoCraft">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=VideoCraft&theme=highcontrast&hide_border=true" alt="VideoCraft" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=VideoCraft&theme=transparent&hide_border=true&title_color=B347FF&text_color=c9d1d9&bg_color=0d1117&icon_color=B347FF" alt="VideoCraft" width="100%"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/smirk-dev/TrustNet">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=TrustNet&theme=highcontrast&hide_border=true" alt="TrustNet" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=TrustNet&theme=transparent&hide_border=true&title_color=B347FF&text_color=c9d1d9&bg_color=0d1117&icon_color=B347FF" alt="TrustNet" width="100%"/>
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/smirk-dev/celestia-site">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=celestia-site&theme=highcontrast&hide_border=true" alt="celestia" width="100%"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=celestia-site&theme=transparent&hide_border=true&title_color=B347FF&text_color=c9d1d9&bg_color=0d1117&icon_color=B347FF" alt="celestia" width="100%"/>
       </a>
     </td>
   </tr>
@@ -201,7 +201,7 @@ hobbies: ["Digital Art", "Photography", "Tech Blogging"]
 ## 💡 Random Dev Wisdom
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=highcontrast&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" alt="Random Dev Quote" />
 </div>
 
 ---
