@@ -32,9 +32,8 @@ hobbies: ["Digital Art", "Photography", "Tech Blogging"]
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=smirk-dev&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=B347FF&icon_color=B347FF&text_color=c9d1d9&bg_color=0d1117&ring_color=B347FF&custom_title=Suryansh's%20GitHub%20Stats" alt="Suryansh Mishra github stats" />
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smirk-dev&layout=compact&hide_border=true&title_color=B347FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8&card_width=320&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=smirk-dev&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=B347FF&icon_color=B347FF&text_color=c9d1d9&bg_color=0d1117&ring_color=B347FF&custom_title=Suryansh's%20GitHub%20Stats" alt="Suryansh Mishra github stats" />
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smirk-dev&layout=compact&hide_border=true&title_color=B347FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
 </div>
 
 <div align="center">
