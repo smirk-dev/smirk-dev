@@ -42,7 +42,7 @@ hobbies: ["Digital Art", "Photography", "Tech Blogging"]
 </div>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=smirk-dev&theme=neon-dark&hide_border=true&stroke=0000&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=00D9FF&currStreakNum=FFFFFF&sideLabels=c9d1d9&dates=c9d1d9&excludeDaysLabel=c9d1d9" alt="smirk-dev streak stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=smirk-dev&theme=neon-dark&hide_border=true&stroke=0000&background=0D1117&ring=B347FF&fire=B347FF&currStreakLabel=B347FF&sideNums=B347FF&currStreakNum=FFFFFF&sideLabels=c9d1d9&dates=c9d1d9&excludeDaysLabel=c9d1d9" alt="smirk-dev streak stats" />
 </div>
 
 <div align="center">
