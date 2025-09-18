@@ -35,10 +35,10 @@ hobbies: ["Digital Art", "Photography", "Tech Blogging"]
   <table>
     <tr>
       <td align="center">
-        <img height="195px" src="https://github-readme-stats.vercel.app/api?username=smirk-dev&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=B347FF&icon_color=B347FF&text_color=c9d1d9&bg_color=0d1117&ring_color=B347FF&custom_title=Suryansh's%20GitHub%20Stats" alt="Suryansh Mishra github stats" />
+        <img height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=smirk-dev&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=B347FF&icon_color=B347FF&text_color=c9d1d9&bg_color=0d1117&ring_color=B347FF&custom_title=Suryansh's%20GitHub%20Stats" alt="Suryansh Mishra github stats" />
       </td>
       <td align="center">
-        <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smirk-dev&layout=compact&hide_border=true&title_color=B347FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
+        <img height="195px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=smirk-dev&layout=compact&hide_border=true&title_color=B347FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
       </td>
     </tr>
   </table>
