@@ -65,10 +65,10 @@ hobbies: ["Digital Art", "Photography", "Tech Blogging"]
 ## 🔥 LeetCode Badges
 
 <div align="center">
-  <table>
-      <td align="center">
+  <div align="center">
         <img src="https://leetcode-badge-showcase.vercel.app/api?username=smirk-dev&theme=black&animated=true" alt="LeetCode Badges" />
-      </td>
+  </div>
+  <table>
     <tr>
       <td align="center">
         <img src="https://leetcard.jacoblin.cool/smirk-dev?ext=contest" alt="LeetCode Contest Stats" />
