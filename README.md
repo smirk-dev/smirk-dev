@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=2000&pause=500&color=B347FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+Engineer+;Algorithmic+Hobbit" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
 ---
 
 ## 🌟 About Me
