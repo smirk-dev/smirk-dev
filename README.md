@@ -54,8 +54,6 @@
 </div>
 
 ---
-
-[![committers.top badge](https://user-badge.committers.top/india_private/smirk-dev.svg)](https://user-badge.committers.top/india_private/smirk-dev)
 <img src="https://komarev.com/ghpvc/?username=smirk-dev&label=Profile%20Views&color=B347FF&style=for-the-badge" alt="Profile Views" />
 ---
 
