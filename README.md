@@ -54,9 +54,11 @@
 </div>
 
 ---
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=smirk-dev&label=Profile%20Views&color=B347FF&style=for-the-badge" alt="Profile Views" />
 </div>
+
 ---
 
 ## 🎨 Featured Projects
