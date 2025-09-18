@@ -85,36 +85,36 @@ hobbies: ["Digital Art", "Photography", "Tech Blogging"]
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/smirk-dev/Guide-to-levelling-up-on-Github">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=Guide-to-levelling-up-on-Github&theme=transparent&hide_border=true&title_color=B347FF&text_color=c9d1d9&bg_color=0d1117&icon_color=B347FF" alt="Guide to levelling up on Github" width="100%"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smirk-dev&repo=Guide-to-levelling-up-on-Github&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="Guide to levelling up on Github" width="100%"/>
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/smirk-dev/Spot-The-Scam-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=Spot-The-Scam-AI&theme=transparent&hide_border=true&title_color=B347FF&text_color=c9d1d9&bg_color=0d1117&icon_color=B347FF" alt="Spot The Scam AI" width="100%"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smirk-dev&repo=Spot-The-Scam-AI&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="Spot The Scam AI" width="100%"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/smirk-dev/BharatChain">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=BharatChain&theme=transparent&hide_border=true&title_color=B347FF&text_color=c9d1d9&bg_color=0d1117&icon_color=B347FF" alt="BharatChain" width="100%"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smirk-dev&repo=BharatChain&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="BharatChain" width="100%"/>
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/smirk-dev/VideoCraft">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=VideoCraft&theme=transparent&hide_border=true&title_color=B347FF&text_color=c9d1d9&bg_color=0d1117&icon_color=B347FF" alt="VideoCraft" width="100%"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smirk-dev&repo=VideoCraft&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="VideoCraft" width="100%"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/smirk-dev/TrustNet">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=TrustNet&theme=transparent&hide_border=true&title_color=B347FF&text_color=c9d1d9&bg_color=0d1117&icon_color=B347FF" alt="TrustNet" width="100%"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smirk-dev&repo=TrustNet&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="TrustNet" width="100%"/>
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/smirk-dev/celestia-site">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=smirk-dev&repo=celestia-site&theme=transparent&hide_border=true&title_color=B347FF&text_color=c9d1d9&bg_color=0d1117&icon_color=B347FF" alt="celestia" width="100%"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smirk-dev&repo=celestia-site&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="celestia" width="100%"/>
       </a>
     </td>
   </tr>
