@@ -46,7 +46,7 @@ hobbies: ["Digital Art", "Photography", "Tech Blogging"]
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smirk-dev&custom_title=Suryansh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smirk-dev&custom_title=Suryansh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=B347FF&line=B347FF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -74,7 +74,7 @@ hobbies: ["Digital Art", "Photography", "Tech Blogging"]
 ---
 
 [![committers.top badge](https://user-badge.committers.top/india_private/smirk-dev.svg)](https://user-badge.committers.top/india_private/smirk-dev)
-<img src="https://komarev.com/ghpvc/?username=smirk-dev&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=smirk-dev&label=Profile%20Views&color=B347FF&style=for-the-badge" alt="Profile Views" />
 ---
 
 ## 🎨 Featured Projects
