@@ -65,13 +65,21 @@ hobbies: ["Digital Art", "Photography", "Tech Blogging"]
 ## 🔥 LeetCode Badges
 
 <div align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=smirk-dev&theme=black&animated=true" alt="LeetCode Badges" />
-</div>
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/smirk-dev?ext=contest" alt="LeetCode Contest Stats" />
-</div>
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/smirk-dev?ext=heatmap" alt="LeetCode Heatmap" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://leetcode-badge-showcase.vercel.app/api?username=smirk-dev&theme=black&animated=true" alt="LeetCode Badges" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://leetcard.jacoblin.cool/smirk-dev?ext=contest" alt="LeetCode Contest Stats" />
+      </td>
+      <td align="center">
+        <img src="https://leetcard.jacoblin.cool/smirk-dev?ext=heatmap" alt="LeetCode Heatmap" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
