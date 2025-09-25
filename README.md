@@ -68,20 +68,20 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/smirk-dev/Guide-to-levelling-up-on-Github">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smirk-dev&repo=Guide-to-levelling-up-on-Github&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="Guide to levelling up on Github" width="100%"/>
+      <a href="https://github.com/smirk-dev/BharatChain">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smirk-dev&repo=BharatChain&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="BharatChain" width="100%"/>
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/smirk-dev/Spot-The-Scam-AI">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smirk-dev&repo=Spot-The-Scam-AI&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="Spot The Scam AI" width="100%"/>
+      <a href="https://github.com/smirk-dev/Guide-to-levelling-up-on-Github">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smirk-dev&repo=Guide-to-levelling-up-on-Github&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="Guide to levelling up on Github" width="100%"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/smirk-dev/BharatChain">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smirk-dev&repo=BharatChain&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="BharatChain" width="100%"/>
+      <a href="https://github.com/smirk-dev/Spot-The-Scam-AI">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smirk-dev&repo=Spot-The-Scam-AI&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="Spot The Scam AI" width="100%"/>
       </a>
     </td>
     <td align="center" width="50%">
