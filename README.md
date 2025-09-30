@@ -34,6 +34,18 @@
         <img src="https://github-profile-trophy.vercel.app/?username=smirk-dev&theme=aura&no-frame=true&no-bg=false&margin-w=4&row=3&column=6&include_all_commits=true&count_private=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Profile Trophies" />
     </div>
 
+## 🎃 Hacktoberfest Achievements
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Hacktoberfest-2025-B347FF?style=for-the-badge&logo=hacktoberfest&logoColor=white" alt="Hacktoberfest 2025"/>
+  <br><br>
+  <a href="https://holopin.io/@smirkdev" target="_blank">
+    <img src="https://holopin.me/smirkdev" alt="Holopin Badges" />
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-B347FF?style=flat&logo=github&logoColor=white" alt="Open Source Contributor"/>
+  <img src="https://img.shields.io/badge/Community%20Builder-B347FF?style=flat&logo=hacktoberfest&logoColor=white" alt="Community Builder"/>
+</div>
 
 ## 🔥 LeetCode Badges
 
