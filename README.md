@@ -54,16 +54,13 @@
 ## 🔥 LeetCode Badges
 
 <div align="center">
-  <div align="center">
-        <img src="https://leetcode-badge-showcase.vercel.app/api?username=smirk-dev&theme=black&animated=true" alt="LeetCode Badges" />
-  </div>
   <table>
     <tr>
       <td align="center">
-        <img src="https://leetcard.jacoblin.cool/smirk-dev?ext=contest" alt="LeetCode Contest Stats" />
+        <img src="https://leetcard.jacoblin.cool/smirk-dev?ext=heatmap" alt="LeetCode Heatmap" />
       </td>
       <td align="center">
-        <img src="https://leetcard.jacoblin.cool/smirk-dev?ext=heatmap" alt="LeetCode Heatmap" />
+        <img src="https://leetcode-badge-showcase.vercel.app/api?username=smirk-dev&theme=black&animated=true" alt="LeetCode Badges" />
       </td>
     </tr>
   </table>
