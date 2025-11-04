@@ -60,7 +60,7 @@
         <img src="https://leetcard.jacoblin.cool/smirk-dev?ext=heatmap" alt="LeetCode Heatmap" />
       </td>
       <td align="center">
-        <img src="https://leetcode-badge-showcase.vercel.app/api?username=&theme=black&animated=true" alt="LeetCode Badges" />
+        <img src="https://leetcode-badge-showcase.vercel.app/api?username=smirk-dev&theme=black&animated=true" alt="LeetCode Badges" />
       </td>
     </tr>
   </table>
