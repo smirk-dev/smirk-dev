@@ -31,8 +31,12 @@
 ## 🏆 GitHub Achievements
 
 <div align="center" style="margin-top: 20px;">
-        <img src="https://github-profile-trophy.vercel.app/?username=smirk-dev&theme=aura&no-frame=true&no-bg=false&margin-w=4&row=3&column=6&include_all_commits=true&count_private=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Profile Trophies" />
+<a href="https://github.com/smirk-dev">
+ 
+  ![](https://github-trophies.vercel.app/?username=smirk-dev&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+</a><br>
     </div>
+    
 
 ## 🎃 Hacktoberfest Achievements
 
@@ -67,10 +71,10 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://leetcard.jacoblin.cool/smirk-dev?ext=contest" alt="LeetCode Contest Stats" />
+        <img src="https://leetcard.jacoblin.cool/smirk-dev?ext=heatmap" alt="LeetCode Heatmap" />
       </td>
       <td align="center">
-        <img src="https://leetcard.jacoblin.cool/smirk-dev?ext=heatmap" alt="LeetCode Heatmap" />
+        <img src="https://leetcode-badge-showcase.vercel.app/api?username=smirk-dev&theme=black&animated=true" alt="LeetCode Badges" />
       </td>
     </tr>
   </table>
