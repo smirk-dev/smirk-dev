@@ -50,9 +50,20 @@
 ## 🔥 LeetCode Badges
 
 <div align="center">
-  <div align="center">
-        <img src="https://leetcode-badge-showcase.vercel.app/api?username=smirk-dev&theme=black&animated=true" alt="LeetCode Badges" />
-  </div>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="./assets/50days.png" alt="LeetCode 50 Days Badge" width="100%" />
+      </td>
+      <td align="center" width="33%">
+        <img src="./assets/pandas.png" alt="LeetCode Pandas Badge" width="100%" />
+      </td>
+      <td align="center" width="33%">
+        <img src="./assets/sql50.png" alt="LeetCode SQL 50 Badge" width="100%" />
+      </td>
+    </tr>
+  </table>
+  <br>
   <table>
     <tr>
       <td align="center">
