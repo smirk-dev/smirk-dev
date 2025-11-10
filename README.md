@@ -73,12 +73,15 @@
         <img src="./assets/lc75.png" alt="LeetCode 75 Badge" width="100%" />
       </td>
       <td align="center" width="20%">
-        <img src="./assets/sql50.png" alt="LeetCode SQL 50 Badge" width="100%" />
+        <img src="./assets/top150.png" alt="LeetCode Top 150 Badge" width="100%" />
       </td>
     </tr>
     <tr>
       <td align="center" width="20%">
         <img src="./assets/pandas.png" alt="LeetCode Pandas Badge" width="100%" />
+      </td>
+      <td align="center" width="20%">
+        <img src="./assets/sql50.png" alt="LeetCode SQL 50 Badge" width="100%" />
       </td>
     </tr>
   </table>
