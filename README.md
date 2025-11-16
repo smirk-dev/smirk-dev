@@ -70,10 +70,16 @@
         <img src="./assets/100days.png" alt="LeetCode 100 Days Badge" width="100%" />
       </td>
       <td align="center" width="20%">
+        <img src="./assets/50days.png" alt="LeetCode 50 Days Badge" width="100%" />
+      </td>
+      <td align="center" width="20%">
         <img src="./assets/lc75.png" alt="LeetCode 75 Badge" width="100%" />
       </td>
       <td align="center" width="20%">
         <img src="./assets/top150.png" alt="LeetCode Top 150 Badge" width="100%" />
+      </td>
+      <td align="center" width="20%">
+        <img src="./assets/top100.png" alt="LeetCode Top 100 Badge" width="100%" />
       </td>
     </tr>
     <tr>
@@ -82,6 +88,20 @@
       </td>
       <td align="center" width="20%">
         <img src="./assets/sql50.png" alt="LeetCode SQL 50 Badge" width="100%" />
+      </td>
+      <td align="center" width="20%">
+        <img src="./assets/dsaquest.png" alt="LeetCode DSA Quest Badge" width="100%" />
+      </td>
+      <td align="center" width="20%">
+        <img src="./assets/dbmsquest.png" alt="LeetCode DBMS Quest Badge" width="100%" />
+      </td>
+      <td align="center" width="20%">
+        <img src="./assets/mathquest.png" alt="LeetCode Math Quest Badge" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="20%">
+        <img src="./assets/architecturequest.png" alt="LeetCode Architecture Quest Badge" width="100%" />
       </td>
     </tr>
   </table>
