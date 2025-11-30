@@ -24,6 +24,22 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=smirk-dev&custom_title=Suryansh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=B347FF&line=B347FF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
+## 📈 3D Contribution Calendar
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Calendar" />
+</div>
+
+## 📈 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smirk-dev/smirk-dev/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smirk-dev/smirk-dev/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/smirk-dev/smirk-dev/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
 ## 🎨 Featured Projects
 
 <div align="center">
