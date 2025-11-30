@@ -115,8 +115,6 @@
       <td align="center" style="padding: 5px;">
         <img src="./assets/top100.png" alt="LeetCode Top 100 Badge" width="50px" />
       </td>
-    </tr>
-    <tr>
       <td align="center" style="padding: 5px;">
         <img src="./assets/pandas.png" alt="LeetCode Pandas Badge" width="50px" />
       </td>
@@ -129,11 +127,11 @@
       <td align="center" style="padding: 5px;">
         <img src="./assets/dbmsquest.png" alt="LeetCode DBMS Quest Badge" width="50px" />
       </td>
+    </tr>
+    <tr>
       <td align="center" style="padding: 5px;">
         <img src="./assets/mathquest.png" alt="LeetCode Math Quest Badge" width="50px" />
       </td>
-    </tr>
-    <tr>
       <td align="center" style="padding: 5px;">
         <img src="./assets/architecturequest.png" alt="LeetCode Architecture Quest Badge" width="50px" />
       </td>
