@@ -24,8 +24,12 @@ jobs:
           config_timezone: America/New_York
           config_display: large
           config_output: svg
+          config_twemoji: yes
+          config_padding: 0, 10
           filename: profile-3d-contrib/profile-gitblock.svg
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           extras_css: |
-            * { background: #0d1117 !important; }
+            svg { background: transparent !important; }
+            body { background: transparent !important; }
+            .field { background: transparent !important; }
