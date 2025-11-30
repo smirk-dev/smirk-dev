@@ -7,14 +7,9 @@
 ## 📊 GitHub Metrics
 
 <div align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
-</div>
+<img src="https://raw.githubusercontent.com/smirk-dev/smirk-dev/main/github-metrics.svg" alt="GitHub Metrics" /></div>
 
-## 📈 3D Contribution Calendar
 
-<div align="center">
-  <img src="./profile-3d-contrib.svg" alt="3D Contribution Calendar" />
-</div>
 
 
 
