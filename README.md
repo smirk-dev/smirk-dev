@@ -178,39 +178,39 @@
   <table style="border-collapse: collapse; border-spacing: 0;">
     <tr>
       <td align="center" style="padding: 5px;">
-        <img src="./assets/100days.png" alt="LeetCode 100 Days Badge" width="50px" />
+        <img src="./assets/100days.png" alt="LeetCode 100 Days Badge" width="100px" />
       </td>
       <td align="center" style="padding: 5px;">
-        <img src="./assets/50days.png" alt="LeetCode 50 Days Badge" width="50px" />
+        <img src="./assets/50days.png" alt="LeetCode 50 Days Badge" width="100px" />
       </td>
       <td align="center" style="padding: 5px;">
-        <img src="./assets/lc75.png" alt="LeetCode 75 Badge" width="50px" />
+        <img src="./assets/lc75.png" alt="LeetCode 75 Badge" width="100px" />
       </td>
       <td align="center" style="padding: 5px;">
-        <img src="./assets/top150.png" alt="LeetCode Top 150 Badge" width="50px" />
+        <img src="./assets/top150.png" alt="LeetCode Top 150 Badge" width="100px" />
       </td>
       <td align="center" style="padding: 5px;">
-        <img src="./assets/top100.png" alt="LeetCode Top 100 Badge" width="50px" />
+        <img src="./assets/top100.png" alt="LeetCode Top 100 Badge" width="100px" />
       </td>
       <td align="center" style="padding: 5px;">
-        <img src="./assets/pandas.png" alt="LeetCode Pandas Badge" width="50px" />
+        <img src="./assets/pandas.png" alt="LeetCode Pandas Badge" width="100px" />
       </td>
       <td align="center" style="padding: 5px;">
-        <img src="./assets/sql50.png" alt="LeetCode SQL 50 Badge" width="50px" />
+        <img src="./assets/sql50.png" alt="LeetCode SQL 50 Badge" width="100px" />
       </td>
       <td align="center" style="padding: 5px;">
-        <img src="./assets/dsaquest.png" alt="LeetCode DSA Quest Badge" width="50px" />
+        <img src="./assets/dsaquest.png" alt="LeetCode DSA Quest Badge" width="100px" />
       </td>
       <td align="center" style="padding: 5px;">
-        <img src="./assets/dbmsquest.png" alt="LeetCode DBMS Quest Badge" width="50px" />
+        <img src="./assets/dbmsquest.png" alt="LeetCode DBMS Quest Badge" width="100px" />
       </td>
     </tr>
     <tr>
       <td align="center" style="padding: 5px;">
-        <img src="./assets/mathquest.png" alt="LeetCode Math Quest Badge" width="50px" />
+        <img src="./assets/mathquest.png" alt="LeetCode Math Quest Badge" width="100px" />
       </td>
       <td align="center" style="padding: 5px;">
-        <img src="./assets/architecturequest.png" alt="LeetCode Architecture Quest Badge" width="50px" />
+        <img src="./assets/architecturequest.png" alt="LeetCode Architecture Quest Badge" width="100px" />
       </td>
     </tr>
   </table>
