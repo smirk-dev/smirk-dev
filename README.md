@@ -86,8 +86,8 @@
         </a>
       </td>
       <td align="center">
-        <a href="mailto:suryansh.mishra.sm6@gmail.com">
-          <img src="./assets/linktree.png" alt="Email" width="100px"/>
+        <a href="https://linktr.ee/mishrasuryansh">
+          <img src="./assets/linktree.png" alt="Linktree" width="100px"/>
         </a>
       </td>
       <td align="center">
