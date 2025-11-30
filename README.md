@@ -78,25 +78,15 @@
 ### 🌐 Connect With Me
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
         <a href="https://suryanshmishra.vercel.app" target="_blank">
           <img src="./assets/website (1).png" alt="Portfolio" width="300px"/>
         </a>
-      </td>
-      <td align="center">
         <a href="https://linktr.ee/mishrasuryansh">
           <img src="./assets/linktree.png" alt="Linktree" width="300px"/>
         </a>
-      </td>
-      <td align="center">
         <a href="https://linkedin.com/in/connectwithsuryanshmishra" target="_blank">
           <img src="./assets/linkedin.png" alt="LinkedIn" width="300px"/>
         </a>
-      </td>
-    </tr>
-  </table>
 </div>
 
 
