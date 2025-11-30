@@ -75,6 +75,30 @@
 
 </div>
 
+## 🌐 Connect With Me
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://suryanshmishra.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Portfolio-B347FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="mailto:suryansh.mishra.sm6@gmail.com">
+          <img src="https://img.shields.io/badge/Email-B347FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://linkedin.com/in/connectwithsuryanshmishra" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-B347FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
 
 
@@ -151,39 +175,8 @@
         <img src="https://leetcard.jacoblin.cool/smirk-dev?ext=heatmap" alt="LeetCode Heatmap" />
 </div>
 
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/smirk-dev/smirk-dev/main/github-metrics.svg" alt="GitHub Metrics" /></div>
-
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=smirk-dev&label=Profile%20Views&color=B347FF&style=for-the-badge" alt="Profile Views" />
-</div>
-
-
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://suryanshmishra.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-B347FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="mailto:suryansh.mishra.sm6@gmail.com">
-          <img src="https://img.shields.io/badge/Email-B347FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://linkedin.com/in/connectwithsuryanshmishra" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-B347FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-        </a>
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
