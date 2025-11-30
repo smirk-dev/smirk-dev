@@ -79,13 +79,13 @@
 
 <div align="center">
         <a href="https://suryanshmishra.vercel.app" target="_blank">
-          <img src="./assets/website (1).png" alt="Portfolio" width="300px"/>
+          <img src="./assets/website (1).png" alt="Portfolio" width="150px"/>
         </a>
         <a href="https://linktr.ee/mishrasuryansh">
-          <img src="./assets/linktree.png" alt="Linktree" width="300px"/>
+          <img src="./assets/linktree.png" alt="Linktree" width="150px"/>
         </a>
         <a href="https://linkedin.com/in/connectwithsuryanshmishra" target="_blank">
-          <img src="./assets/linkedin.png" alt="LinkedIn" width="300px"/>
+          <img src="./assets/linkedin.png" alt="LinkedIn" width="150px"/>
         </a>
 </div>
 
