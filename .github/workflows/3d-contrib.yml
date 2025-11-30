@@ -1,25 +1,25 @@
-name: GitHub Profile 3D Contrib
+name: 3D Contribution Calendar
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 */6 * * *'
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
+  metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pull-requests: write
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Generate 3D contribution graph
-        uses: yoshi389111/github-profile-3d-contrib@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-
-      - name: Commit and push if changed
-        run: |
-          git add -A
-          git diff --quiet && git diff --staged --quiet || (git config user.name 'github-actions' && git config user.email 'github-actions@github.com' && git commit -m 'Update 3D contribution graph' && git push)
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: smirk-dev
+          template: classic
+          base: header, activity, community, repositories, metadata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
