@@ -82,17 +82,17 @@
     <tr>
       <td align="center">
         <a href="https://suryanshmishra.vercel.app" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-B347FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+          <img src="./assets/website (1).png" alt="Portfolio" width="100px"/>
         </a>
       </td>
       <td align="center">
         <a href="mailto:suryansh.mishra.sm6@gmail.com">
-          <img src="https://img.shields.io/badge/Email-B347FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+          <img src="./assets/linktree.png" alt="Email" width="100px"/>
         </a>
       </td>
       <td align="center">
         <a href="https://linkedin.com/in/connectwithsuryanshmishra" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-B347FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+          <img src="./assets/linkedin.png" alt="LinkedIn" width="100px"/>
         </a>
       </td>
     </tr>
