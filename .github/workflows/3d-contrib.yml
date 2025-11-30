@@ -15,7 +15,7 @@ jobs:
 
       - name: Generate 3D contribution graph
         uses: yoshi389111/github-profile-3d-contrib@main
-                env:
+        env:
                           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
                                     USERNAME: ${{ github.repository_owner }}
 
