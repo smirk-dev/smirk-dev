@@ -4,6 +4,61 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=1000&pause=500&color=B347FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+Engineer+;Algorithmic+Hobbit" alt="Typing SVG" />
 </div>
 
+## 📊 GitHub Metrics
+
+<div align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</div>
+
+
+
+## 🎨 Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/smirk-dev/BharatChain">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smirk-dev&repo=BharatChain&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="BharatChain" width="100%"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/smirk-dev/Guide-to-levelling-up-on-Github">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smirk-dev&repo=Guide-to-levelling-up-on-Github&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="Guide to levelling up on Github" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/smirk-dev/Spot-The-Scam-AI">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smirk-dev&repo=Spot-The-Scam-AI&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="Spot The Scam AI" width="100%"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/smirk-dev/VideoCraft">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smirk-dev&repo=VideoCraft&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="VideoCraft" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/smirk-dev/TrustNet">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smirk-dev&repo=TrustNet&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="TrustNet" width="100%"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/smirk-dev/celestia-site">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smirk-dev&repo=celestia-site&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="celestia" width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -27,6 +82,16 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=smirk-dev&custom_title=Suryansh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=B347FF&line=B347FF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
+<div align="center">
+    <br>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://leetcard.jacoblin.cool/smirk-dev?ext=heatmap" alt="LeetCode Heatmap" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🏆 GitHub Achievements
 
@@ -52,17 +117,6 @@
 </div>
 
 ## 🔥 LeetCode Badges
-
-<div align="center">
-    <br>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://leetcard.jacoblin.cool/smirk-dev?ext=heatmap" alt="LeetCode Heatmap" />
-      </td>
-    </tr>
-  </table>
-</div>
 
   <table>
     <tr>
@@ -115,52 +169,7 @@
 
 ---
 
-## 🎨 Featured Projects
 
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/smirk-dev/BharatChain">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smirk-dev&repo=BharatChain&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="BharatChain" width="100%"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/smirk-dev/Guide-to-levelling-up-on-Github">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smirk-dev&repo=Guide-to-levelling-up-on-Github&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="Guide to levelling up on Github" width="100%"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/smirk-dev/Spot-The-Scam-AI">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smirk-dev&repo=Spot-The-Scam-AI&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="Spot The Scam AI" width="100%"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/smirk-dev/VideoCraft">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smirk-dev&repo=VideoCraft&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="VideoCraft" width="100%"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/smirk-dev/TrustNet">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smirk-dev&repo=TrustNet&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="TrustNet" width="100%"/>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/smirk-dev/celestia-site">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smirk-dev&repo=celestia-site&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="celestia" width="100%"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
