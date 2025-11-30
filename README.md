@@ -1,18 +1,28 @@
-<h1 align="center">🤖 Suryansh Mishra | New Times New Solutions</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=35&duration=1000&pause=500&color=B347FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI+Engineer+;Algorithmic+Hobbit" alt="Typing SVG" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" alt="Random Dev Quote" />
 </div>
 
-## 📊 GitHub Metrics
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img height="195px" src="https://github-readme-stats-one-bice.vercel.app/api?username=smirk-dev&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=B347FF&icon_color=B347FF&text_color=c9d1d9&bg_color=0d1117&ring_color=B347FF&custom_title=Suryansh's%20GitHub%20Stats" alt="Suryansh Mishra github stats" />
+      </td>
+      <td align="center">
+        <img height="195px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=smirk-dev&layout=compact&hide_border=true&title_color=B347FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/smirk-dev/smirk-dev/main/github-metrics.svg" alt="GitHub Metrics" /></div>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=smirk-dev&theme=neon-dark&hide_border=true&stroke=0000&background=0D1117&ring=B347FF&fire=B347FF&currStreakLabel=B347FF&sideNums=B347FF&currStreakNum=FFFFFF&sideLabels=c9d1d9&dates=c9d1d9&excludeDaysLabel=c9d1d9" alt="smirk-dev streak stats" />
+</div>
 
-
-
-
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smirk-dev&custom_title=Suryansh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=B347FF&line=B347FF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
 
 ## 🎨 Featured Projects
 
@@ -61,39 +71,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img height="195px" src="https://github-readme-stats-one-bice.vercel.app/api?username=smirk-dev&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&title_color=B347FF&icon_color=B347FF&text_color=c9d1d9&bg_color=0d1117&ring_color=B347FF&custom_title=Suryansh's%20GitHub%20Stats" alt="Suryansh Mishra github stats" />
-      </td>
-      <td align="center">
-        <img height="195px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=smirk-dev&layout=compact&hide_border=true&title_color=B347FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=smirk-dev&theme=neon-dark&hide_border=true&stroke=0000&background=0D1117&ring=B347FF&fire=B347FF&currStreakLabel=B347FF&sideNums=B347FF&currStreakNum=FFFFFF&sideLabels=c9d1d9&dates=c9d1d9&excludeDaysLabel=c9d1d9" alt="smirk-dev streak stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=smirk-dev&custom_title=Suryansh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=B347FF&line=B347FF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
-<div align="center">
-    <br>
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://leetcard.jacoblin.cool/smirk-dev?ext=heatmap" alt="LeetCode Heatmap" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 ## 🏆 GitHub Achievements
 
@@ -163,13 +140,19 @@
   </table>
   <br>
 
----
+
+<div align="center">
+        <img src="https://leetcard.jacoblin.cool/smirk-dev?ext=heatmap" alt="LeetCode Heatmap" />
+</div>
+
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/smirk-dev/smirk-dev/main/github-metrics.svg" alt="GitHub Metrics" /></div>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=smirk-dev&label=Profile%20Views&color=B347FF&style=for-the-badge" alt="Profile Views" />
 </div>
-
----
 
 
 
@@ -259,23 +242,7 @@
 
 ---
 
-## 💡 Random Dev Wisdom
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" alt="Random Dev Quote" />
-</div>
-
-## 📈 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/smirk-dev/smirk-dev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/smirk-dev/smirk-dev/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/smirk-dev/smirk-dev/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<div align="center">
   
 ### 💬 Let's Connect and Build Something Amazing Together!
 
