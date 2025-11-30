@@ -24,13 +24,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=smirk-dev&custom_title=Suryansh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=B347FF&line=B347FF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
-## 📈 3D Contribution Calendar
+### 📈 3D Contribution Calendar
 
 <div align="center">
   <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Calendar" />
 </div>
 
-## 🎨 Featured Projects
+### 🎨 Featured Projects
 
 <div align="center">
 
@@ -75,7 +75,7 @@
 
 </div>
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <div align="center">
   <table>
@@ -99,8 +99,66 @@
   </table>
 </div>
 
----
 
+### 🛠️ Technology Stack
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>� AI & Machine Learning</h3>
+        <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" alt="AI ML Technologies" />
+        <br><br>
+        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
+        <br>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+      </td>
+      <td align="center" width="33%">
+        <h3>💻 Programming</h3>
+        <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,java,cs&theme=dark" alt="Programming Languages" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"/>
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C"/>
+      </td>
+      <td align="center" width="33%">
+        <h3>🌐 Web Development</h3>
+        <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask,angular&theme=dark" alt="Web Technologies" />
+        <br><br>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native"/>
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">
+        <h3>🗄️ Database & Cloud</h3>
+        <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,vercel,docker&theme=dark" alt="Database Cloud" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/>
+        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify"/>
+      </td>
+      <td align="center" width="33%">
+        <h3>🛠️ Development Tools</h3>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,blender&theme=dark" alt="Development Tools" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit"/>
+        <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva"/>
+      </td>
+      <td align="center" width="33%">
+        <h3>📱 Specializations</h3>
+        <div style="margin-top: 20px;">
+          <img src="https://img.shields.io/badge/Computer_Vision-B347FF?style=for-the-badge&logoColor=white" alt="Computer Vision"/><br>
+          <img src="https://img.shields.io/badge/Deep_Learning-B347FF?style=for-the-badge&logoColor=white" alt="Deep Learning"/><br>
+          <img src="https://img.shields.io/badge/Full_Stack-B347FF?style=for-the-badge&logoColor=white" alt="Full Stack"/><br>
+          <img src="https://img.shields.io/badge/Mobile_Development-B347FF?style=for-the-badge&logoColor=white" alt="Mobile Development"/>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 
 ## 🏆 GitHub Achievements
 
@@ -181,63 +239,6 @@
 
 ---
 
-## 🛠️ Technology Stack
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <h3>� AI & Machine Learning</h3>
-        <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" alt="AI ML Technologies" />
-        <br><br>
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
-        <br>
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
-      </td>
-      <td align="center" width="33%">
-        <h3>💻 Programming</h3>
-        <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,java,cs&theme=dark" alt="Programming Languages" />
-        <br><br>
-        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"/>
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C"/>
-      </td>
-      <td align="center" width="33%">
-        <h3>🌐 Web Development</h3>
-        <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,flask,angular&theme=dark" alt="Web Technologies" />
-        <br><br>
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native"/>
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="33%">
-        <h3>🗄️ Database & Cloud</h3>
-        <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,vercel,docker&theme=dark" alt="Database Cloud" />
-        <br><br>
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/>
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify"/>
-      </td>
-      <td align="center" width="33%">
-        <h3>🛠️ Development Tools</h3>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,blender&theme=dark" alt="Development Tools" />
-        <br><br>
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit"/>
-        <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva"/>
-      </td>
-      <td align="center" width="33%">
-        <h3>📱 Specializations</h3>
-        <div style="margin-top: 20px;">
-          <img src="https://img.shields.io/badge/Computer_Vision-B347FF?style=for-the-badge&logoColor=white" alt="Computer Vision"/><br>
-          <img src="https://img.shields.io/badge/Deep_Learning-B347FF?style=for-the-badge&logoColor=white" alt="Deep Learning"/><br>
-          <img src="https://img.shields.io/badge/Full_Stack-B347FF?style=for-the-badge&logoColor=white" alt="Full Stack"/><br>
-          <img src="https://img.shields.io/badge/Mobile_Development-B347FF?style=for-the-badge&logoColor=white" alt="Mobile Development"/>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
   
