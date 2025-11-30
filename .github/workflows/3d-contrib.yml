@@ -15,8 +15,8 @@ jobs:
 
       - name: Generate 3D contribution graph
         uses: yoshi389111/github-profile-3d-contrib@main
-                with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push if changed
         run: |
