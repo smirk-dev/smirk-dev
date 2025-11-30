@@ -97,47 +97,49 @@
 
 ## 🔥 LeetCode Badges
 
-  <table>
+<div align="center">
+  <table style="border-collapse: collapse; border-spacing: 0;">
     <tr>
-      <td align="center" width="20%">
-        <img src="./assets/100days.png" alt="LeetCode 100 Days Badge" width="100%" />
+      <td align="center" style="padding: 5px;">
+        <img src="./assets/100days.png" alt="LeetCode 100 Days Badge" width="50px" />
       </td>
-      <td align="center" width="20%">
-        <img src="./assets/50days.png" alt="LeetCode 50 Days Badge" width="100%" />
+      <td align="center" style="padding: 5px;">
+        <img src="./assets/50days.png" alt="LeetCode 50 Days Badge" width="50px" />
       </td>
-      <td align="center" width="20%">
-        <img src="./assets/lc75.png" alt="LeetCode 75 Badge" width="100%" />
+      <td align="center" style="padding: 5px;">
+        <img src="./assets/lc75.png" alt="LeetCode 75 Badge" width="50px" />
       </td>
-      <td align="center" width="20%">
-        <img src="./assets/top150.png" alt="LeetCode Top 150 Badge" width="100%" />
+      <td align="center" style="padding: 5px;">
+        <img src="./assets/top150.png" alt="LeetCode Top 150 Badge" width="50px" />
       </td>
-      <td align="center" width="20%">
-        <img src="./assets/top100.png" alt="LeetCode Top 100 Badge" width="100%" />
+      <td align="center" style="padding: 5px;">
+        <img src="./assets/top100.png" alt="LeetCode Top 100 Badge" width="50px" />
       </td>
     </tr>
     <tr>
-      <td align="center" width="20%">
-        <img src="./assets/pandas.png" alt="LeetCode Pandas Badge" width="100%" />
+      <td align="center" style="padding: 5px;">
+        <img src="./assets/pandas.png" alt="LeetCode Pandas Badge" width="50px" />
       </td>
-      <td align="center" width="20%">
-        <img src="./assets/sql50.png" alt="LeetCode SQL 50 Badge" width="100%" />
+      <td align="center" style="padding: 5px;">
+        <img src="./assets/sql50.png" alt="LeetCode SQL 50 Badge" width="50px" />
       </td>
-      <td align="center" width="20%">
-        <img src="./assets/dsaquest.png" alt="LeetCode DSA Quest Badge" width="100%" />
+      <td align="center" style="padding: 5px;">
+        <img src="./assets/dsaquest.png" alt="LeetCode DSA Quest Badge" width="50px" />
       </td>
-      <td align="center" width="20%">
-        <img src="./assets/dbmsquest.png" alt="LeetCode DBMS Quest Badge" width="100%" />
+      <td align="center" style="padding: 5px;">
+        <img src="./assets/dbmsquest.png" alt="LeetCode DBMS Quest Badge" width="50px" />
       </td>
-      <td align="center" width="20%">
-        <img src="./assets/mathquest.png" alt="LeetCode Math Quest Badge" width="100%" />
+      <td align="center" style="padding: 5px;">
+        <img src="./assets/mathquest.png" alt="LeetCode Math Quest Badge" width="50px" />
       </td>
     </tr>
     <tr>
-      <td align="center" width="20%">
-        <img src="./assets/architecturequest.png" alt="LeetCode Architecture Quest Badge" width="100%" />
+      <td align="center" style="padding: 5px;">
+        <img src="./assets/architecturequest.png" alt="LeetCode Architecture Quest Badge" width="50px" />
       </td>
     </tr>
   </table>
+</div>
   <br>
 
 
@@ -241,14 +243,8 @@
 </div>
 
 ---
-
-
   
 ### 💬 Let's Connect and Build Something Amazing Together!
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
-
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=75"/>
