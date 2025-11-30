@@ -21,5 +21,11 @@ jobs:
           user: smirk-dev
           template: classic
           base: header, activity, community, repositories, metadata
+          config_timezone: America/New_York
+          config_display: large
+          config_output: svg
+          filename: profile-3d-contrib/profile-gitblock.svg
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          extras_css: |
+            * { background: #0d1117 !important; }
