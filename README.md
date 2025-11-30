@@ -158,9 +158,8 @@
   </table>
 </div>
 
----
 
-## 🏆 GitHub Achievements
+### 🏆 GitHub Achievements
 
 <div align="center" style="margin-top: 20px;">
 <a href="https://github.com/smirk-dev">
@@ -170,7 +169,7 @@
     </div>
     
 
-## 🎃 Hacktoberfest Achievements
+### 🎃 Hacktoberfest Achievements
 
 <div align="center">
   <img src="https://img.shields.io/badge/Hacktoberfest-2025-B347FF?style=for-the-badge&logo=hacktoberfest&logoColor=white" alt="Hacktoberfest 2025"/>
@@ -183,7 +182,7 @@
   <img src="https://img.shields.io/badge/Community%20Builder-B347FF?style=flat&logo=hacktoberfest&logoColor=white" alt="Community Builder"/>
 </div>
 
-## 🔥 LeetCode Badges
+### 🔥 LeetCode Badges
 
 <div align="center">
   <table style="border-collapse: collapse; border-spacing: 0;">
@@ -236,11 +235,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=smirk-dev&label=Profile%20Views&color=B347FF&style=for-the-badge" alt="Profile Views" />
 </div>
-
----
-
-
----
   
 ### 💬 Let's Connect and Build Something Amazing Together!
 
