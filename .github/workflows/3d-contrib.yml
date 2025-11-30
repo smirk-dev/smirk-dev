@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-  steps:
+    steps:
       - uses: actions/checkout@v4
 
       - name: Generate 3D contribution graph
