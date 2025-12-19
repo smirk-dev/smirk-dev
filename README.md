@@ -60,13 +60,13 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/smirk-dev/TrustNet">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smirk-dev&repo=TrustNet&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="TrustNet" width="100%"/>
+      <a href="https://github.com/smirk-dev/student-education-platform-Database-Management-System-Project-">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smirk-dev&repo=TrustNet&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="Learning Management System" width="100%"/>
       </a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/smirk-dev/celestia-site">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smirk-dev&repo=celestia-site&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="celestia" width="100%"/>
+      <a href="https://github.com/smirk-dev/CodeReview-AI-Agent">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smirk-dev&repo=celestia-site&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="Code Review AI Agent" width="100%"/>
       </a>
     </td>
   </tr>
