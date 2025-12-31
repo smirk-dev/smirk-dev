@@ -211,6 +211,9 @@
       <td align="center" style="padding: 5px;">
         <img src="./assets/architecturequest.png" alt="LeetCode Architecture Quest Badge" width="200px" />
       </td>
+      <td align="center" style="padding: 5px;">
+        <img src="./assets/dcc25.png" alt="LeetCode Daily Coding Challenge December 2025 Badge" width="200px" />
+      </td>
     </tr>
   </table>
 </div>
