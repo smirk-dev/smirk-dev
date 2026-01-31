@@ -191,12 +191,12 @@
       <td align="center" style="padding: 5px;">
         <img src="./assets/top100.png" alt="LeetCode Top 100 Badge" width="200px" />
       </td>
+    </tr>
+    <tr>
       <td align="center" style="padding: 5px;">
         <img src="./assets/pandas.png" alt="LeetCode Pandas Badge" width="200px" />
       </td>
-    </tr>
-    <tr>
-    <td align="center" style="padding: 5px;">
+      <td align="center" style="padding: 5px;">
         <img src="./assets/sql50.png" alt="LeetCode SQL 50 Badge" width="200px" />
       </td>
       <td align="center" style="padding: 5px;">
@@ -208,11 +208,16 @@
       <td align="center" style="padding: 5px;">
         <img src="./assets/mathquest.png" alt="LeetCode Math Quest Badge" width="200px" />
       </td>
+    </tr>
+    <tr>
       <td align="center" style="padding: 5px;">
         <img src="./assets/architecturequest.png" alt="LeetCode Architecture Quest Badge" width="200px" />
       </td>
       <td align="center" style="padding: 5px;">
         <img src="./assets/dcc25.png" alt="LeetCode Daily Coding Challenge December 2025 Badge" width="200px" />
+      </td>
+      <td align="center" style="padding: 5px;">
+        <img src="./assets/jcc26.png" alt="LeetCode January Coding Challenge 2026 Badge" width="200px" />
       </td>
     </tr>
   </table>
