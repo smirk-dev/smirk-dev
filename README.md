@@ -26,7 +26,7 @@
 ### 📈 3D Contribution Calendar
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" alt="3D Contribution Calendar" />
+  <img src="./profile-3d-contrib/profile-south-season-animate.svg" alt="3D Contribution Calendar" />
 </div>
 
 ### 🎨 Featured Projects
