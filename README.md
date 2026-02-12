@@ -60,7 +60,7 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/smirk-dev/gemini-hackathon-">
+      <a href="https://github.com/smirk-dev/gemini-hackathon">
         <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smirk-dev&repo=gemini-hackathon&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="LegalMind" width="100%"/>
       </a>
     </td>
