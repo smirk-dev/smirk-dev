@@ -153,7 +153,7 @@
 <div align="center" style="margin-top: 20px;">
 <a href="https://github.com/smirk-dev">
  
-  ![](https://github-trophies.vercel.app/?username=smirk-dev&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+  ![](https://github-trophies.vercel.app/?username=smirk-dev&theme=monokai&no-frame=true&no-bg=true&margin-w=4&column=7)
 </a><br>
     </div>
     
