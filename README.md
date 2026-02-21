@@ -60,8 +60,8 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/smirk-dev/student-education-platform-Database-Management-System-Project-">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smirk-dev&repo=student-education-platform-Database-Management-System-Project-&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="Learning Management System" width="100%"/>
+      <a href="https://github.com/smirk-dev/gemini-hackathon">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=smirk-dev&repo=gemini-hackathon&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="LegalMind" width="100%"/>
       </a>
     </td>
     <td align="center" width="50%">
@@ -153,7 +153,7 @@
 <div align="center" style="margin-top: 20px;">
 <a href="https://github.com/smirk-dev">
  
-  ![](https://github-trophies.vercel.app/?username=smirk-dev&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+  ![](https://github-trophies.vercel.app/?username=smirk-dev&theme=monokai&no-frame=true&no-bg=true&margin-w=4&column=7)
 </a><br>
     </div>
     
