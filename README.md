@@ -78,7 +78,7 @@
 
 <div align="center">
         <a href="https://suryanshmishra.vercel.app" target="_blank">
-          <img src="./assets/website (1).png" alt="Portfolio" width="250px"/>
+          <img src="./assets/website.png" alt="Portfolio" width="250px"/>
         </a>
         <a href="https://linktr.ee/mishrasuryansh">
           <img src="./assets/linktree.png" alt="Linktree" width="250px"/>
