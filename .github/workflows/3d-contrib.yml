@@ -1,35 +1,30 @@
-name: 3D Contribution Calendar
+name: Generate 3D Contribution Calendar
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
 
 jobs:
-  metrics:
+  build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      pull-requests: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate 3D Contribution Files
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: smirk-dev
+
+      - name: Commit generated SVGs
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: smirk-dev
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: America/New_York
-          config_display: large
-          config_output: svg
-          config_twemoji: yes
-          config_padding: 0, 10
-          filename: profile-3d-contrib/profile-gitblock.svg
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          extras_css: |
-            svg { background: transparent !important; }
-            body { background: transparent !important; }
-            .field { background: transparent !important; }
+          commit_message: "chore: update 3d contribution svg"
+          file_pattern: profile-3d-contrib/*.svg
