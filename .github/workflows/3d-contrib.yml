@@ -25,6 +25,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: smirk-dev
 
+      - name: Refresh profile-purple-animate.svg
+        run: |
+          cp profile-3d-contrib/profile-night-rainbow.svg profile-3d-contrib/profile-purple-animate.svg
+
       - name: Commit and push generated SVGs
         run: |
           git config user.name "github-actions[bot]"
