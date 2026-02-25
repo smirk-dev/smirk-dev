@@ -1,5 +1,5 @@
 {
-  "type": "rainbow",
+  "type": "normal",
   "fileName": "profile-purple-animate.svg",
   "backgroundColor": "#0d1117",
   "foregroundColor": "#c9d1d9",
@@ -7,14 +7,11 @@
   "weakColor": "#8b949e",
   "radarColor": "#B347FF",
   "growingAnimation": true,
-  "saturation": "85%",
-  "contribLightness": [
-    "18%",
-    "30%",
-    "42%",
-    "54%",
-    "66%"
-  ],
-  "duration": "12s",
-  "hueRatio": -2
+  "contribColors": [
+    "#1a1027",
+    "#3b1a63",
+    "#6a2bb8",
+    "#8e3fdc",
+    "#B347FF"
+  ]
 }
