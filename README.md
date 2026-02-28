@@ -217,6 +217,9 @@
         <img src="./assets/jcc26.png" alt="LeetCode January Coding Challenge 2026 Badge" width="200px" />
       </td>
       <td align="center" style="padding: 5px;">
+        <img src="./assets/fcc26.png" alt="LeetCode February Coding Challenge 2026 Badge" width="200px" />
+      </td>
+      <td align="center" style="padding: 5px;">
         <img src="./assets/100days.png" alt="LeetCode 100 Days Badge" width="200px" />
       </td>
       <td align="center" style="padding: 5px;">
