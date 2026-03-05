@@ -228,7 +228,7 @@
 
 
 <div align="center">
-<img src="./assets/leetcode-heatmap.svg&theme=dark" alt="LeetCode Heatmap" />
+<img src="https://raw.githubusercontent.com/smirk-dev/smirk-dev/main/assets/leetcode-heatmap.svg&theme=dark" alt="LeetCode Heatmap" />
 </div>
 
 <div align="center">
