@@ -228,7 +228,7 @@
 
 
 <div align="center">
-![LeetCode Heatmap](./assets/leetcode-heatmap.svg)
+  <img src="./assets/leetcode-heatmap.svg" alt="LeetCode Heatmap" />
 </div>
 
 <div align="center">
