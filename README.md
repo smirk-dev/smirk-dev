@@ -228,7 +228,7 @@
 
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/smirk-dev?ext=heatmap&cache=0&theme=dark" alt="LeetCode Heatmap" />
+<img src="./assets/leetcode-heatmap.svg&theme=dark" alt="LeetCode Heatmap" />
 </div>
 
 <div align="center">
