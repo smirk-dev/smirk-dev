@@ -228,7 +228,11 @@
 
 
 <div align="center">
-  <img src="./assets/leetcode-heatmap.svg" alt="LeetCode Heatmap" />
+  <img src="https://leetcard.jacoblin.cool/smirk-dev?theme=dark&font=baloo_2&ext=heatmap" alt="LeetCode Heatmap" />
+</div>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/smirk-dev?theme=dark&font=baloo_2" alt="LeetCode Stats" />
 </div>
 
 <div align="center">
