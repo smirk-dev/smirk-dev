@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay" alt="Random Dev Quote" />
-</div>
-
-<div align="center">
   <table>
     <tr>
       <td align="center">
@@ -153,7 +149,7 @@
 <div align="center" style="margin-top: 20px;">
 <a href="https://github.com/smirk-dev">
  
-  ![](https://github-trophies.vercel.app/?username=smirk-dev&theme=monokai&no-frame=true&no-bg=true&margin-w=4&column=7)
+  ![](https://github-trophies.vercel.app/?username=smirk-dev&theme=monokai&no-frame=true&no-bg=true&margin-w=4&column=7&count_private=true)
 </a><br>
     </div>
     
@@ -232,7 +228,7 @@
 
 
 <div align="center">
-        <img src="https://leetcard.jacoblin.cool/smirk-dev?ext=heatmap" alt="LeetCode Heatmap" />
+  <img src="https://leetcard.jacoblin.cool/smirk-dev?theme=dark&font=baloo_2&ext=heatmap" alt="LeetCode Heatmap" />
 </div>
 
 <div align="center">
