@@ -195,7 +195,7 @@
     <tr>
       <td align="center" style="padding: 5px;"><img src="./assets/100days.png" alt="LeetCode 100 Days Badge" width="200px" /></td>
       <td align="center" style="padding: 5px;"><img src="./assets/50days.png" alt="LeetCode 50 Days Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/100days26.png" alt="LeetCode 100 Days Badge 2026" width="200px" /></td>
       <td align="center" style="padding: 5px;"></td>
       <td align="center" style="padding: 5px;"></td>
     </tr>
