@@ -171,6 +171,17 @@
   <img src="./assets/kagglebadges.png" alt="Kaggle Profile Badges">
 </div>
 
+### 🎶  GSSOC Badges
+<div align="center">
+  <table style="border-collapse: collapse; border-spacing: 0;">
+    <tr>
+      <td align="center" style="padding: 5px;"><img src="./assets/ai.png" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/contributor.png" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/open.png" width="200px" /></td>
+    </tr>
+  </table>
+</div>
+
 ### 🔥 LeetCode Badges
 
 <div align="center">
