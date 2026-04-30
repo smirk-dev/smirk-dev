@@ -146,13 +146,12 @@
 
 ### 🏆 GitHub Achievements
 
-<div align="center" style="margin-top: 20px;">
-<a href="https://github.com/smirk-dev">
- 
-  ![](https://github-trophies.vercel.app/?username=smirk-dev&theme=monokai&no-frame=true&no-bg=true&margin-w=4&column=7&count_private=true)
-</a><br>
-    </div>
-    
+<p align="center">
+  <img
+    src="https://github-trophies.vercel.app/?username=smirk-dev&theme=monokai&no-frame=true&no-bg=true"
+    alt="GitHub Trophies"
+  />
+</p>
 
 ### 🎃 Hacktoberfest Achievements
 
@@ -190,7 +189,12 @@
     <tr>
       <td align="center" style="padding: 5px;"><img src="./assets/mathquest.png" alt="LeetCode Math Quest Badge" width="200px" /></td>
       <td align="center" style="padding: 5px;"><img src="./assets/architecturequest.png" alt="LeetCode Architecture Quest Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/lc75.png" alt="LeetCode 75 Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/top150.png" alt="LeetCode Top 150 Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/top100.png" alt="LeetCode Top 100 Badge" width="200px" /></td>
       <td align="center" style="padding: 5px;"><img src="./assets/dcc25.png" alt="LeetCode Daily Coding Challenge December 2025 Badge" width="200px" /></td>
+    </tr>
+    <tr>
       <td align="center" style="padding: 5px;"><img src="./assets/jcc26.png" alt="LeetCode January Coding Challenge 2026 Badge" width="200px" /></td>
       <td align="center" style="padding: 5px;"><img src="./assets/fcc26.png" alt="LeetCode February Coding Challenge 2026 Badge" width="200px" /></td>
       <td align="center" style="padding: 5px;"><img src="./assets/mcc26.png" alt="LeetCode March Coding Challenge 2026 Badge" width="200px" /></td>
