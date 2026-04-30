@@ -166,6 +166,11 @@
   <img src="https://img.shields.io/badge/Community%20Builder-B347FF?style=flat&logo=hacktoberfest&logoColor=white" alt="Community Builder"/>
 </div>
 
+### 🧌  Kaggle Badges
+<div align="center">
+  <img src="./assets/kagglebadges.png" alt="Kaggle Profile Badges">
+</div>
+
 ### 🔥 LeetCode Badges
 
 <div align="center">
@@ -203,7 +208,6 @@
   </table>
 </div>
   <br>
-
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/smirk-dev?theme=dark&font=baloo_2&ext=heatmap" alt="LeetCode Heatmap" />
