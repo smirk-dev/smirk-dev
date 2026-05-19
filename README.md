@@ -146,12 +146,13 @@
 
 ### 🏆 GitHub Achievements
 
-<p align="center">
+<div align="center">
   <img
-    src="https://github-trophies.vercel.app/?username=smirk-dev&theme=monokai&no-frame=true&no-bg=true"
+    src="https://github-trophies.vercel.app/?username=smirk-dev&theme=monokai&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"
     alt="GitHub Trophies"
+    width="100%"
   />
-</p>
+</div>
 
 ### 🎃 Hacktoberfest Achievements
 
