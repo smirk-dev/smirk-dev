@@ -148,7 +148,7 @@
 
 <div align="center">
   <img
-    src="https://github-trophies.vercel.app/?username=smirk-dev&theme=monokai&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"
+    src="https://github-trophies.vercel.app/?username=smirk-dev&theme=monokai&no-frame=true&no-bg=true&margin-w=15&margin-h=15"
     alt="GitHub Trophies"
     width="100%"
   />
