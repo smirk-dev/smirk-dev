@@ -119,8 +119,9 @@
       </td>
       <td align="center" width="33%">
         <h3>🤖 AI Technologies & Agents</h3>
-        <img src="https://cdn.simpleicons.org/openai/white" height="48" alt="OpenAI" />
+        <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@latest/icons/openai.svg" height="48" alt="OpenAI" />
         <img src="https://cdn.simpleicons.org/anthropic/white" height="48" alt="Anthropic" />
+        <img src="https://cdn.simpleicons.org/claude/D97757" height="48" alt="Claude" />
         <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" alt="Hugging Face" />
         <img src="https://cdn.simpleicons.org/langchain/1C3C3C/white" height="48" alt="LangChain" />
         <br>
