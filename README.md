@@ -202,6 +202,8 @@
       <td align="center" style="padding: 5px;"><img src="./assets/first_steps.png" alt="GSSoC First Steps Badge" width="200px" /></td>
       <td align="center" style="padding: 5px;"><img src="./assets/point_scorer.png" alt="GSSoC Point Scorer Badge" width="200px" /></td>
       <td align="center" style="padding: 5px;"><img src="./assets/profile_complete.png" alt="GSSoC Profile Complete Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/rising_star.png" alt="GSSoC Rising Star Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/top_100.png" alt="GSSoC Top 100 Badge" width="200px" /></td>
     </tr>
   </table>
 </div>
