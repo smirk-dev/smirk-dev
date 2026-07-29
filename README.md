@@ -238,9 +238,9 @@
     </tr>
     <tr>
       <td align="center" style="padding: 5px;"><img src="./assets/acc26.png" alt="Leetcode April Coding Challenge" width="200px"></td>
-      <td align="center" style="padding: 5px;"></td>
-    </tr>
-    <tr>
+      <td align="center" style="padding: 5px;"><img src="./assets/maycc26.png" alt="LeetCode May Coding Challenge 2026 Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/juncc26.png" alt="LeetCode June Coding Challenge 2026 Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/200days26.png" alt="LeetCode 200 Days Badge 2026" width="200px" /></td>
     </tr>
   </table>
 </div>
