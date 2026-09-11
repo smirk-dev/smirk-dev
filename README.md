@@ -185,163 +185,192 @@
 ### 🎓 Certificates & Achievements
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="./assets/certificates/cert_iitropar_completion.png" alt="IIT Ropar Minor in AI - Course Completion Certificate" width="100%"/>
-        <br><sub><b>Minor in Artificial Intelligence</b> — Indian Institute of Technology, Ropar</sub>
-      </td>
-      <td align="center" width="50%">
-        <img src="./assets/certificates/cert_iiitranchi_internship.png" alt="UPES x IIIT Ranchi Research Internship Certificate" width="100%"/>
-        <br><sub><b>Research Internship</b> — IIIT Ranchi (respiratory-signal ML), guided by Dr. Gaurav Sundaram & Dr. Sagar Deep Deb</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <img src="./assets/certificates/cert_inboxkit_internship.png" alt="InboxKit Full Stack Developer Internship Certificate" width="100%"/>
-        <br><sub><b>Full-Stack Developer Internship → Full-Time Offer</b> — InboxKit (Wayne Enterprises)</sub>
-      </td>
-      <td align="center" width="50%">
-        <img src="./assets/certificates/cert_iitropar_scorecard.png" alt="IIT Ropar Provisional Score Card" width="100%"/>
-        <br><sub><b>Provisional Score Card</b> — Minor in AI, IIT Ropar</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <img src="./assets/certificates/cert_yugsanskritinyas_internship.png" alt="Yug Sanskriti Nyas NGO Internship Completion Certificate" width="100%"/>
-        <br><sub><b>NGO Internship</b> — Yug Sanskriti Nyas (AI deployment & campaign tech support)</sub>
-      </td>
-      <td></td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td align="left" width="60%"><b>Minor in Artificial Intelligence</b><br/>Indian Institute of Technology, Ropar</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_iitropar_completion.png" alt="IIT Ropar Minor in AI - Course Completion Certificate" width="320px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%"><b>Research Internship</b><br/>IIIT Ranchi (respiratory-signal ML), guided by Dr. Gaurav Sundaram & Dr. Sagar Deep Deb</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_iiitranchi_internship.png" alt="UPES x IIIT Ranchi Research Internship Certificate" width="320px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%"><b>Full-Stack Developer Internship → Full-Time Offer</b><br/>InboxKit (Wayne Enterprises)</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_inboxkit_internship.png" alt="InboxKit Full Stack Developer Internship Certificate" width="320px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%"><b>Provisional Score Card</b><br/>Minor in AI, IIT Ropar</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_iitropar_scorecard.png" alt="IIT Ropar Provisional Score Card" width="320px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%"><b>NGO Internship</b><br/>Yug Sanskriti Nyas (AI deployment & campaign tech support)</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_yugsanskritinyas_internship.png" alt="Yug Sanskriti Nyas NGO Internship Completion Certificate" width="320px"/></td>
+  </tr>
+</table>
 </div>
 
 #### 🧑‍💻 Hackathons
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="./assets/certificates/cert_wchl_national.png" alt="WCHL 2025 National Round Qualification Certificate" width="100%"/>
-        <br><sub><b>WCHL 2025 — National Round</b><br>BlockseBlock × ICP</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="./assets/certificates/cert_masai_runnerup.png" alt="Anveshan Hackathon 2025 Runner Up Certificate" width="100%"/>
-        <br><sub><b>Anveshan Hackathon 2025 — Runner-Up</b><br>Data Science Domain, Masai School</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="./assets/certificates/cert_wchl_regional_blockseblock.png" alt="WCHL 2025 Regional Round Qualification Certificate" width="100%"/>
-        <br><sub><b>WCHL 2025 — Regional Round</b><br>BlockseBlock × ICP</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="33%">
-        <img src="./assets/certificates/cert_wchl_regional_bharatchain.png" alt="WCHL 2025 BharatChain Regional Qualified Participant Certificate" width="100%"/>
-        <br><sub><b>WCHL 2025 — Regional Qualified (BharatChain)</b><br>Internet Computer × ICP Hubs</sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="./assets/certificates/cert_masai_participation.png" alt="Anveshan Hackathon 2025 Participation Certificate" width="100%"/>
-        <br><sub><b>Anveshan Hackathon 2025 — Participation</b><br>Masai School</sub>
-      </td>
-      <td></td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td align="left" width="60%"><b>WCHL 2025 — National Round</b><br/>BlockseBlock × ICP</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_wchl_national.png" alt="WCHL 2025 National Round Qualification Certificate" width="300px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%"><b>Anveshan Hackathon 2025 — Runner-Up</b><br/>Data Science Domain, Masai School</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_masai_runnerup.png" alt="Anveshan Hackathon 2025 Runner Up Certificate" width="300px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%"><b>WCHL 2025 — Regional Round</b><br/>BlockseBlock × ICP</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_wchl_regional_blockseblock.png" alt="WCHL 2025 Regional Round Qualification Certificate" width="300px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%"><b>WCHL 2025 — Regional Qualified (BharatChain)</b><br/>Internet Computer × ICP Hubs</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_wchl_regional_bharatchain.png" alt="WCHL 2025 BharatChain Regional Qualified Participant Certificate" width="300px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%"><b>Anveshan Hackathon 2025 — Participation</b><br/>Masai School</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_masai_participation.png" alt="Anveshan Hackathon 2025 Participation Certificate" width="300px"/></td>
+  </tr>
+</table>
 </div>
 
 #### 🏫 University Tech Societies
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="./assets/certificates/cert_upesacm_protorush.png" alt="ProtoRush Certificate of Participation" width="100%"/>
-        <br><sub><b>ProtoRush</b><br>UPES ACM × Dell Technologies</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="./assets/certificates/cert_upesacm_codecrusade.png" alt="Code Crusade Certificate of Participation" width="100%"/>
-        <br><sub><b>Code Crusade</b><br>UPES ACM</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="./assets/certificates/cert_ieeecis_gitxplore.png" alt="GitXplore Certificate of Participation" width="100%"/>
-        <br><sub><b>GitXplore</b><br>IEEE CIS, UPES</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="./assets/certificates/cert_upesacm_100daysofcode.png" alt="100 Days of Code Certificate of Participation" width="100%"/>
-        <br><sub><b>100 Days of Code</b><br>UPES ACM & ACM-W</sub>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="25%">
-        <img src="./assets/certificates/cert_upesacm_21daysofcode.png" alt="21 Days of Code Certificate of Participation" width="100%"/>
-        <br><sub><b>21 Days of Code</b><br>UPES ACM & ACM-W</sub>
-      </td>
-      <td align="center" width="25%">
-        <img src="./assets/certificates/cert_upesacm_github_workshop.png" alt="Git and Github Session Certificate of Participation" width="100%"/>
-        <br><sub><b>Git & GitHub Session</b><br>UPES ACM & ACM-W</sub>
-      </td>
-      <td></td>
-      <td></td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td align="left" width="60%"><b>ProtoRush</b><br/>UPES ACM × Dell Technologies</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_upesacm_protorush.png" alt="ProtoRush Certificate of Participation" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%"><b>Code Crusade</b><br/>UPES ACM</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_upesacm_codecrusade.png" alt="Code Crusade Certificate of Participation" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%"><b>GitXplore</b><br/>IEEE CIS, UPES</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ieeecis_gitxplore.png" alt="GitXplore Certificate of Participation" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%"><b>100 Days of Code</b><br/>UPES ACM & ACM-W</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_upesacm_100daysofcode.png" alt="100 Days of Code Certificate of Participation" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%"><b>21 Days of Code</b><br/>UPES ACM & ACM-W</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_upesacm_21daysofcode.png" alt="21 Days of Code Certificate of Participation" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%"><b>Git & GitHub Session</b><br/>UPES ACM & ACM-W</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_upesacm_github_workshop.png" alt="Git and Github Session Certificate of Participation" width="280px"/></td>
+  </tr>
+</table>
 </div>
 
 #### 📚 LinkedIn Learning — Microsoft-backed, PMI PDU & NASBA CPE credentialed
 
 <div align="center">
-  <table style="border-collapse: collapse; border-spacing: 0;">
-    <tr>
-      <td align="center" style="padding: 5px;"><img src="./assets/certificates/cert_ll_career_essentials_genai.png" alt="Career Essentials in Generative AI by Microsoft and LinkedIn" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/certificates/cert_ll_ai_for_managers.png" alt="AI for Managers by Microsoft and LinkedIn" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/certificates/cert_ll_ethics_genai.png" alt="Ethics in the Age of Generative AI" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/certificates/cert_ll_ethics_genai_pmi.png" alt="Ethics in the Age of Generative AI - PMI PDU Certificate" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/certificates/cert_ll_ethics_genai_nasba.png" alt="Ethics in the Age of Generative AI - NASBA CPE Certificate" width="200px" /></td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 5px;"><img src="./assets/certificates/cert_ll_responsible_ai_managers.png" alt="Responsible AI for Managers" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/certificates/cert_ll_amplify_critical_thinking.png" alt="Amplify Your Critical Thinking with Generative AI" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/certificates/cert_ll_amplify_critical_thinking_pmi.png" alt="Amplify Your Critical Thinking with Generative AI - PMI PDU Certificate" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/certificates/cert_ll_enhance_coaching_impact.png" alt="Enhance Your Coaching Impact with Generative AI" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/certificates/cert_ll_enhance_coaching_impact_pmi.png" alt="Enhance Your Coaching Impact with Generative AI - PMI PDU Certificate" width="200px" /></td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 5px;"><img src="./assets/certificates/cert_ll_managers_guide_career_conversations.png" alt="The Manager's Guide to Career Conversations in the Age of AI" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/certificates/cert_ll_managers_guide_career_conversations_nasba.png" alt="The Manager's Guide to Career Conversations in the Age of AI - NASBA CPE Certificate" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/certificates/cert_ll_building_collaborative_team_culture.png" alt="Building a Collaborative Team Culture with AI" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/certificates/cert_ll_become_ai_powered_people_manager.png" alt="Become an AI-Powered People Manager" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/certificates/cert_ll_intro_prompt_engineering.png" alt="Introduction to Prompt Engineering for Generative AI" width="200px" /></td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 5px;"><img src="./assets/certificates/cert_ll_intro_ai.png" alt="Introduction to Artificial Intelligence" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/certificates/cert_ll_evolution_thoughtful_search.png" alt="Generative AI - The Evolution of Thoughtful Online Search" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/certificates/cert_ll_what_is_genai.png" alt="What Is Generative AI" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/certificates/cert_ll_what_is_genai_nasba.png" alt="What Is Generative AI - NASBA CPE Certificate" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/certificates/cert_ll_streamlining_copilot.png" alt="Streamlining Your Work with Microsoft Copilot" width="200px" /></td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 5px;"><img src="./assets/certificates/cert_ll_learning_365_copilot.png" alt="Learning Microsoft 365 Copilot" width="200px" /></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td align="left" width="60%">Career Essentials in Generative AI<br/><sub>Microsoft & LinkedIn</sub></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_career_essentials_genai.png" alt="Career Essentials in Generative AI by Microsoft and LinkedIn" width="240px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">AI for Managers<br/><sub>Microsoft & LinkedIn</sub></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_ai_for_managers.png" alt="AI for Managers by Microsoft and LinkedIn" width="240px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Ethics in the Age of Generative AI</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_ethics_genai.png" alt="Ethics in the Age of Generative AI" width="240px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Ethics in the Age of Generative AI<br/><sub>PMI PDU Certificate</sub></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_ethics_genai_pmi.png" alt="Ethics in the Age of Generative AI - PMI PDU Certificate" width="240px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Ethics in the Age of Generative AI<br/><sub>NASBA CPE Certificate</sub></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_ethics_genai_nasba.png" alt="Ethics in the Age of Generative AI - NASBA CPE Certificate" width="240px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Responsible AI for Managers</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_responsible_ai_managers.png" alt="Responsible AI for Managers" width="240px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Amplify Your Critical Thinking with Generative AI</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_amplify_critical_thinking.png" alt="Amplify Your Critical Thinking with Generative AI" width="240px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Amplify Your Critical Thinking with Generative AI<br/><sub>PMI PDU Certificate</sub></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_amplify_critical_thinking_pmi.png" alt="Amplify Your Critical Thinking with Generative AI - PMI PDU Certificate" width="240px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Enhance Your Coaching Impact with Generative AI</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_enhance_coaching_impact.png" alt="Enhance Your Coaching Impact with Generative AI" width="240px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Enhance Your Coaching Impact with Generative AI<br/><sub>PMI PDU Certificate</sub></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_enhance_coaching_impact_pmi.png" alt="Enhance Your Coaching Impact with Generative AI - PMI PDU Certificate" width="240px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">The Manager's Guide to Career Conversations in the Age of AI</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_managers_guide_career_conversations.png" alt="The Manager's Guide to Career Conversations in the Age of AI" width="240px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">The Manager's Guide to Career Conversations in the Age of AI<br/><sub>NASBA CPE Certificate</sub></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_managers_guide_career_conversations_nasba.png" alt="The Manager's Guide to Career Conversations in the Age of AI - NASBA CPE Certificate" width="240px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Building a Collaborative Team Culture with AI</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_building_collaborative_team_culture.png" alt="Building a Collaborative Team Culture with AI" width="240px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Become an AI-Powered People Manager</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_become_ai_powered_people_manager.png" alt="Become an AI-Powered People Manager" width="240px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Introduction to Prompt Engineering for Generative AI</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_intro_prompt_engineering.png" alt="Introduction to Prompt Engineering for Generative AI" width="240px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Introduction to Artificial Intelligence</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_intro_ai.png" alt="Introduction to Artificial Intelligence" width="240px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Generative AI — The Evolution of Thoughtful Online Search</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_evolution_thoughtful_search.png" alt="Generative AI - The Evolution of Thoughtful Online Search" width="240px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">What Is Generative AI</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_what_is_genai.png" alt="What Is Generative AI" width="240px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">What Is Generative AI<br/><sub>NASBA CPE Certificate</sub></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_what_is_genai_nasba.png" alt="What Is Generative AI - NASBA CPE Certificate" width="240px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Streamlining Your Work with Microsoft Copilot</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_streamlining_copilot.png" alt="Streamlining Your Work with Microsoft Copilot" width="240px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Learning Microsoft 365 Copilot</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_learning_365_copilot.png" alt="Learning Microsoft 365 Copilot" width="240px"/></td>
+  </tr>
+</table>
 </div>
 
 #### 🧠 Kaggle
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="./assets/certificates/cert_kaggle_5day_ai_agents.png" alt="5-Day AI Agents Intensive Course with Google Certificate" width="100%"/>
-        <br><sub><b>5-Day AI Agents Intensive Course</b><br>Kaggle × Google</sub>
-      </td>
-      <td align="center" width="50%">
-        <img src="./assets/certificates/cert_kaggle_intro_programming.png" alt="Kaggle Intro to Programming Certificate" width="100%"/>
-        <br><sub><b>Intro to Programming</b><br>Kaggle</sub>
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td align="left" width="60%"><b>5-Day AI Agents Intensive Course</b><br/>Kaggle × Google</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_5day_ai_agents.png" alt="5-Day AI Agents Intensive Course with Google Certificate" width="300px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%"><b>Intro to Programming</b><br/>Kaggle</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_intro_programming.png" alt="Kaggle Intro to Programming Certificate" width="300px"/></td>
+  </tr>
+</table>
 </div>
 
 ### 🧌  Kaggle Badges
