@@ -270,6 +270,18 @@
         <br><sub><b>100 Days of Code</b><br>UPES ACM & ACM-W</sub>
       </td>
     </tr>
+    <tr>
+      <td align="center" width="25%">
+        <img src="./assets/certificates/cert_upesacm_21daysofcode.png" alt="21 Days of Code Certificate of Participation" width="100%"/>
+        <br><sub><b>21 Days of Code</b><br>UPES ACM & ACM-W</sub>
+      </td>
+      <td align="center" width="25%">
+        <img src="./assets/certificates/cert_upesacm_github_workshop.png" alt="Git and Github Session Certificate of Participation" width="100%"/>
+        <br><sub><b>Git & GitHub Session</b><br>UPES ACM & ACM-W</sub>
+      </td>
+      <td></td>
+      <td></td>
+    </tr>
   </table>
 </div>
 
