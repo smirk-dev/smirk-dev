@@ -206,6 +206,13 @@
         <br><sub><b>Provisional Score Card</b> — Minor in AI, IIT Ropar</sub>
       </td>
     </tr>
+    <tr>
+      <td align="center" width="50%">
+        <img src="./assets/certificates/cert_yugsanskritinyas_internship.png" alt="Yug Sanskriti Nyas NGO Internship Completion Certificate" width="100%"/>
+        <br><sub><b>NGO Internship</b> — Yug Sanskriti Nyas (AI deployment & campaign tech support)</sub>
+      </td>
+      <td></td>
+    </tr>
   </table>
 </div>
 
