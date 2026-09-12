@@ -310,10 +310,10 @@
 </details>
 
 <details>
-<summary><b>🧌 Kaggle Badges (click to expand)</b></summary>
+<summary><b>🧌 Kaggle Badges — 34 badges, live (click to expand)</b></summary>
 <br>
 
-  <img src="./assets/kagglebadges.jpg" alt="Kaggle Profile Badges">
+  <img src="https://kaggle-readme-badges.vercel.app/api/kaggle-badges" alt="Kaggle Profile Badges">
 
 </details>
 
