@@ -27,7 +27,7 @@
 
 <div align="center">
 
-**[🎨 Projects](#featured-projects) &nbsp;·&nbsp; [🌐 Connect](#connect-with-me) &nbsp;·&nbsp; [🛠️ Tech Stack](#tech-stack) &nbsp;·&nbsp; [🏆 Achievements & Badges](#achievements-badges) &nbsp;·&nbsp; [💬 Let's Talk](#lets-connect)**
+**[🎨 Projects](#user-content-featured-projects) &nbsp;·&nbsp; [🌐 Connect](#user-content-connect-with-me) &nbsp;·&nbsp; [🛠️ Tech Stack](#user-content-tech-stack) &nbsp;·&nbsp; [🏆 Achievements & Badges](#user-content-achievements-badges) &nbsp;·&nbsp; [💬 Let's Talk](#user-content-lets-connect)**
 
 </div>
 
