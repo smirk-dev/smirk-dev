@@ -373,6 +373,149 @@
 </table>
 </div>
 
+#### 🏅 Kaggle Platform Badges
+
+<div align="center">
+<table>
+  <tr>
+    <td align="left" width="60%">Competitor<br/><sub>Submission to a full-scale, points/medals-eligible competition</sub></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_competitor.png" alt="Kaggle Competitor Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">March Mania Competitor<br/><sub>NCAA basketball tournament prediction series</sub></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_march_mania_competitor.png" alt="Kaggle March Mania Competitor Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Getting Started Competitor</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_getting_started_competitor.png" alt="Kaggle Getting Started Competitor Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Playground Competitor</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_playground_competitor.png" alt="Kaggle Playground Competitor Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Python Coder<br/><sub>Created a Python notebook</sub></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_python_coder.png" alt="Kaggle Python Coder Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">R Coder<br/><sub>Created an R notebook</sub></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_r_coder.png" alt="Kaggle R Coder Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">R Markdown Coder</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_r_markdown_coder.png" alt="Kaggle R Markdown Coder Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Dataset Creator</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_dataset_creator.png" alt="Kaggle Dataset Creator Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Dataset Pipeline Creator<br/><sub>Dataset created from notebook output</sub></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_dataset_pipeline_creator.png" alt="Kaggle Dataset Pipeline Creator Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Linked Dataset Creator</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_linked_dataset_creator.png" alt="Kaggle Linked Dataset Creator Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">API Dataset Creator</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_api_dataset_creator.png" alt="Kaggle API Dataset Creator Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Dataset Tagger</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_dataset_tagger.png" alt="Kaggle Dataset Tagger Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Model Creator</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_model_creator.png" alt="Kaggle Model Creator Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Model Variation Creator</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_model_variation_creator.png" alt="Kaggle Model Variation Creator Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Linked Model Creator</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_linked_model_creator.png" alt="Kaggle Linked Model Creator Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Model Tagger</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_model_tagger.png" alt="Kaggle Model Tagger Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Code Uploader<br/><sub>Imported a notebook file</sub></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_code_uploader.png" alt="Kaggle Code Uploader Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">API Notebook Creator</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_api_notebook_creator.png" alt="Kaggle API Notebook Creator Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Github Coder<br/><sub>Imported/synced a notebook from GitHub</sub></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_github_coder.png" alt="Kaggle Github Coder Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Colab Coder</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_colab_coder.png" alt="Kaggle Colab Coder Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Code Tagger</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_code_tagger.png" alt="Kaggle Code Tagger Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Code Forker</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_code_forker.png" alt="Kaggle Code Forker Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Notebook Modeler<br/><sub>Used a Kaggle Model Hub model in a notebook</sub></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_notebook_modeler.png" alt="Kaggle Notebook Modeler Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Utility Scripter</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_utility_scripter.png" alt="Kaggle Utility Scripter Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Learner<br/><sub>Completed a Kaggle Learn course</sub></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_learner.png" alt="Kaggle Learner Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">5-Day AI Agents Intensive Course with Google<br/><sub>Platform badge for the cohort program</sub></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_5day_ai_agents_badge.png" alt="Kaggle 5-Day AI Agents Intensive Course with Google Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">1 Year on Kaggle</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_1_year_on_kaggle.png" alt="Kaggle 1 Year on Kaggle Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">7 Day Login Streak</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_7_day_login_streak.png" alt="Kaggle 7 Day Login Streak Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Kaggle Community Member</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_community_member.png" alt="Kaggle Community Member Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Stylish<br/><sub>Filled out the Kaggle profile</sub></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_stylish.png" alt="Kaggle Stylish Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Collector</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_collector.png" alt="Kaggle Collector Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Bookmarker</td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_bookmarker.png" alt="Kaggle Bookmarker Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Vampire<br/><sub>Kaggle dark theme</sub></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_vampire.png" alt="Kaggle Vampire Badge Certificate" width="280px"/></td>
+  </tr>
+  <tr>
+    <td align="left" width="60%">Agent of Discord<br/><sub>Joined and linked the Kaggle Discord</sub></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_agent_of_discord.png" alt="Kaggle Agent of Discord Badge Certificate" width="280px"/></td>
+  </tr>
+</table>
+</div>
+
 ### 🧌  Kaggle Badges
 <div align="center">
   <img src="./assets/kagglebadges.png" alt="Kaggle Profile Badges">
