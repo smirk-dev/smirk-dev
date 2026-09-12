@@ -302,24 +302,17 @@
 <div align="center">
   <table style="border-collapse: collapse; border-spacing: 0;">
     <tr>
-      <td align="center" style="padding: 5px;"><img src="./assets/ai.png" alt="GSSoC AI Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/contributor.png" alt="GSSoC Contributor Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/open.png" alt="GSSoC Open Source Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/bounty_hunter.png" alt="GSSoC Bounty Hunter Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/bounty_master.png" alt="GSSoC Bounty Master Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/discord_verified.png" alt="GSSoC Discord Verified Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/first_steps.png" alt="GSSoC 2026 First Steps Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/discord_verified.png" alt="GSSoC 2026 Discord Verified Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/profile_complete.png" alt="GSSoC 2026 Profile Complete Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/point_scorer.png" alt="GSSoC 2026 Point Scorer Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/rising_star.png" alt="GSSoC 2026 Rising Star Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/power_contributor.png" alt="GSSoC 2026 Power Contributor Badge" width="200px" /></td>
     </tr>
     <tr>
-      <td align="center" style="padding: 5px;"><img src="./assets/first_steps.png" alt="GSSoC First Steps Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/point_scorer.png" alt="GSSoC Point Scorer Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/profile_complete.png" alt="GSSoC Profile Complete Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/rising_star.png" alt="GSSoC Rising Star Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/top_100.png" alt="GSSoC Top 100 Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/gssoc_building_momentum.png" alt="GSSoC 2026 Building Momentum Badge" width="200px" /></td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 5px;"><img src="./assets/gssoc_power_contributor.png" alt="GSSoC 2026 Power Contributor Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/gssoc_week_one.png" alt="GSSoC 2026 Week 1 Streak Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/bounty_hunter.png" alt="GSSoC 2026 Bounty Hunter Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/getting_started.png" alt="GSSoC 2026 Getting Started Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/building_momentum.png" alt="GSSoC 2026 Building Momentum Badge" width="200px" /></td>
     </tr>
   </table>
 </div>
