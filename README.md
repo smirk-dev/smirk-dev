@@ -188,23 +188,23 @@
 <table>
   <tr>
     <td align="left" width="60%"><b>Minor in Artificial Intelligence</b><br/>Indian Institute of Technology, Ropar</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_iitropar_completion.png" alt="IIT Ropar Minor in AI - Course Completion Certificate" width="320px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_iitropar_completion.jpg" alt="IIT Ropar Minor in AI - Course Completion Certificate" width="320px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%"><b>Research Internship</b><br/>IIIT Ranchi (respiratory-signal ML), guided by Dr. Gaurav Sundaram & Dr. Sagar Deep Deb</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_iiitranchi_internship.png" alt="UPES x IIIT Ranchi Research Internship Certificate" width="320px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_iiitranchi_internship.jpg" alt="UPES x IIIT Ranchi Research Internship Certificate" width="320px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%"><b>Full-Stack Developer Internship → Full-Time Offer</b><br/>InboxKit (Wayne Enterprises)</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_inboxkit_internship.png" alt="InboxKit Full Stack Developer Internship Certificate" width="320px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_inboxkit_internship.jpg" alt="InboxKit Full Stack Developer Internship Certificate" width="320px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%"><b>Provisional Score Card</b><br/>Minor in AI, IIT Ropar</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_iitropar_scorecard.png" alt="IIT Ropar Provisional Score Card" width="320px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_iitropar_scorecard.jpg" alt="IIT Ropar Provisional Score Card" width="320px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%"><b>NGO Internship</b><br/>Yug Sanskriti Nyas (AI deployment & campaign tech support)</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_yugsanskritinyas_internship.png" alt="Yug Sanskriti Nyas NGO Internship Completion Certificate" width="320px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_yugsanskritinyas_internship.jpg" alt="Yug Sanskriti Nyas NGO Internship Completion Certificate" width="320px"/></td>
   </tr>
 </table>
 </div>
@@ -215,23 +215,23 @@
 <table>
   <tr>
     <td align="left" width="60%"><b>WCHL 2025 — National Round</b><br/>BlockseBlock × ICP</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_wchl_national.png" alt="WCHL 2025 National Round Qualification Certificate" width="300px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_wchl_national.jpg" alt="WCHL 2025 National Round Qualification Certificate" width="300px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%"><b>Anveshan Hackathon 2025 — Runner-Up</b><br/>Data Science Domain, Masai School</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_masai_runnerup.png" alt="Anveshan Hackathon 2025 Runner Up Certificate" width="300px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_masai_runnerup.jpg" alt="Anveshan Hackathon 2025 Runner Up Certificate" width="300px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%"><b>WCHL 2025 — Regional Round</b><br/>BlockseBlock × ICP</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_wchl_regional_blockseblock.png" alt="WCHL 2025 Regional Round Qualification Certificate" width="300px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_wchl_regional_blockseblock.jpg" alt="WCHL 2025 Regional Round Qualification Certificate" width="300px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%"><b>WCHL 2025 — Regional Qualified (BharatChain)</b><br/>Internet Computer × ICP Hubs</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_wchl_regional_bharatchain.png" alt="WCHL 2025 BharatChain Regional Qualified Participant Certificate" width="300px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_wchl_regional_bharatchain.jpg" alt="WCHL 2025 BharatChain Regional Qualified Participant Certificate" width="300px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%"><b>Anveshan Hackathon 2025 — Participation</b><br/>Masai School</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_masai_participation.png" alt="Anveshan Hackathon 2025 Participation Certificate" width="300px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_masai_participation.jpg" alt="Anveshan Hackathon 2025 Participation Certificate" width="300px"/></td>
   </tr>
 </table>
 </div>
@@ -242,27 +242,27 @@
 <table>
   <tr>
     <td align="left" width="60%"><b>ProtoRush</b><br/>UPES ACM × Dell Technologies</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_upesacm_protorush.png" alt="ProtoRush Certificate of Participation" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_upesacm_protorush.jpg" alt="ProtoRush Certificate of Participation" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%"><b>Code Crusade</b><br/>UPES ACM</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_upesacm_codecrusade.png" alt="Code Crusade Certificate of Participation" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_upesacm_codecrusade.jpg" alt="Code Crusade Certificate of Participation" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%"><b>GitXplore</b><br/>IEEE CIS, UPES</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_ieeecis_gitxplore.png" alt="GitXplore Certificate of Participation" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ieeecis_gitxplore.jpg" alt="GitXplore Certificate of Participation" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%"><b>100 Days of Code</b><br/>UPES ACM & ACM-W</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_upesacm_100daysofcode.png" alt="100 Days of Code Certificate of Participation" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_upesacm_100daysofcode.jpg" alt="100 Days of Code Certificate of Participation" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%"><b>21 Days of Code</b><br/>UPES ACM & ACM-W</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_upesacm_21daysofcode.png" alt="21 Days of Code Certificate of Participation" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_upesacm_21daysofcode.jpg" alt="21 Days of Code Certificate of Participation" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%"><b>Git & GitHub Session</b><br/>UPES ACM & ACM-W</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_upesacm_github_workshop.png" alt="Git and Github Session Certificate of Participation" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_upesacm_github_workshop.jpg" alt="Git and Github Session Certificate of Participation" width="280px"/></td>
   </tr>
 </table>
 </div>
@@ -273,87 +273,87 @@
 <table>
   <tr>
     <td align="left" width="60%">Career Essentials in Generative AI<br/><sub>Microsoft & LinkedIn</sub></td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_career_essentials_genai.png" alt="Career Essentials in Generative AI by Microsoft and LinkedIn" width="240px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_career_essentials_genai.jpg" alt="Career Essentials in Generative AI by Microsoft and LinkedIn" width="240px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">AI for Managers<br/><sub>Microsoft & LinkedIn</sub></td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_ai_for_managers.png" alt="AI for Managers by Microsoft and LinkedIn" width="240px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_ai_for_managers.jpg" alt="AI for Managers by Microsoft and LinkedIn" width="240px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Ethics in the Age of Generative AI</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_ethics_genai.png" alt="Ethics in the Age of Generative AI" width="240px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_ethics_genai.jpg" alt="Ethics in the Age of Generative AI" width="240px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Ethics in the Age of Generative AI<br/><sub>PMI PDU Certificate</sub></td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_ethics_genai_pmi.png" alt="Ethics in the Age of Generative AI - PMI PDU Certificate" width="240px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_ethics_genai_pmi.jpg" alt="Ethics in the Age of Generative AI - PMI PDU Certificate" width="240px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Ethics in the Age of Generative AI<br/><sub>NASBA CPE Certificate</sub></td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_ethics_genai_nasba.png" alt="Ethics in the Age of Generative AI - NASBA CPE Certificate" width="240px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_ethics_genai_nasba.jpg" alt="Ethics in the Age of Generative AI - NASBA CPE Certificate" width="240px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Responsible AI for Managers</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_responsible_ai_managers.png" alt="Responsible AI for Managers" width="240px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_responsible_ai_managers.jpg" alt="Responsible AI for Managers" width="240px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Amplify Your Critical Thinking with Generative AI</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_amplify_critical_thinking.png" alt="Amplify Your Critical Thinking with Generative AI" width="240px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_amplify_critical_thinking.jpg" alt="Amplify Your Critical Thinking with Generative AI" width="240px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Amplify Your Critical Thinking with Generative AI<br/><sub>PMI PDU Certificate</sub></td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_amplify_critical_thinking_pmi.png" alt="Amplify Your Critical Thinking with Generative AI - PMI PDU Certificate" width="240px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_amplify_critical_thinking_pmi.jpg" alt="Amplify Your Critical Thinking with Generative AI - PMI PDU Certificate" width="240px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Enhance Your Coaching Impact with Generative AI</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_enhance_coaching_impact.png" alt="Enhance Your Coaching Impact with Generative AI" width="240px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_enhance_coaching_impact.jpg" alt="Enhance Your Coaching Impact with Generative AI" width="240px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Enhance Your Coaching Impact with Generative AI<br/><sub>PMI PDU Certificate</sub></td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_enhance_coaching_impact_pmi.png" alt="Enhance Your Coaching Impact with Generative AI - PMI PDU Certificate" width="240px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_enhance_coaching_impact_pmi.jpg" alt="Enhance Your Coaching Impact with Generative AI - PMI PDU Certificate" width="240px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">The Manager's Guide to Career Conversations in the Age of AI</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_managers_guide_career_conversations.png" alt="The Manager's Guide to Career Conversations in the Age of AI" width="240px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_managers_guide_career_conversations.jpg" alt="The Manager's Guide to Career Conversations in the Age of AI" width="240px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">The Manager's Guide to Career Conversations in the Age of AI<br/><sub>NASBA CPE Certificate</sub></td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_managers_guide_career_conversations_nasba.png" alt="The Manager's Guide to Career Conversations in the Age of AI - NASBA CPE Certificate" width="240px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_managers_guide_career_conversations_nasba.jpg" alt="The Manager's Guide to Career Conversations in the Age of AI - NASBA CPE Certificate" width="240px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Building a Collaborative Team Culture with AI</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_building_collaborative_team_culture.png" alt="Building a Collaborative Team Culture with AI" width="240px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_building_collaborative_team_culture.jpg" alt="Building a Collaborative Team Culture with AI" width="240px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Become an AI-Powered People Manager</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_become_ai_powered_people_manager.png" alt="Become an AI-Powered People Manager" width="240px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_become_ai_powered_people_manager.jpg" alt="Become an AI-Powered People Manager" width="240px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Introduction to Prompt Engineering for Generative AI</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_intro_prompt_engineering.png" alt="Introduction to Prompt Engineering for Generative AI" width="240px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_intro_prompt_engineering.jpg" alt="Introduction to Prompt Engineering for Generative AI" width="240px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Introduction to Artificial Intelligence</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_intro_ai.png" alt="Introduction to Artificial Intelligence" width="240px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_intro_ai.jpg" alt="Introduction to Artificial Intelligence" width="240px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Generative AI — The Evolution of Thoughtful Online Search</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_evolution_thoughtful_search.png" alt="Generative AI - The Evolution of Thoughtful Online Search" width="240px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_evolution_thoughtful_search.jpg" alt="Generative AI - The Evolution of Thoughtful Online Search" width="240px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">What Is Generative AI</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_what_is_genai.png" alt="What Is Generative AI" width="240px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_what_is_genai.jpg" alt="What Is Generative AI" width="240px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">What Is Generative AI<br/><sub>NASBA CPE Certificate</sub></td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_what_is_genai_nasba.png" alt="What Is Generative AI - NASBA CPE Certificate" width="240px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_what_is_genai_nasba.jpg" alt="What Is Generative AI - NASBA CPE Certificate" width="240px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Streamlining Your Work with Microsoft Copilot</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_streamlining_copilot.png" alt="Streamlining Your Work with Microsoft Copilot" width="240px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_streamlining_copilot.jpg" alt="Streamlining Your Work with Microsoft Copilot" width="240px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Learning Microsoft 365 Copilot</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_learning_365_copilot.png" alt="Learning Microsoft 365 Copilot" width="240px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_ll_learning_365_copilot.jpg" alt="Learning Microsoft 365 Copilot" width="240px"/></td>
   </tr>
 </table>
 </div>
@@ -364,11 +364,11 @@
 <table>
   <tr>
     <td align="left" width="60%"><b>5-Day AI Agents Intensive Course</b><br/>Kaggle × Google</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_5day_ai_agents.png" alt="5-Day AI Agents Intensive Course with Google Certificate" width="300px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_5day_ai_agents.jpg" alt="5-Day AI Agents Intensive Course with Google Certificate" width="300px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%"><b>Intro to Programming</b><br/>Kaggle</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_intro_programming.png" alt="Kaggle Intro to Programming Certificate" width="300px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_intro_programming.jpg" alt="Kaggle Intro to Programming Certificate" width="300px"/></td>
   </tr>
 </table>
 </div>
@@ -379,146 +379,146 @@
 <table>
   <tr>
     <td align="left" width="60%">Competitor<br/><sub>Submission to a full-scale, points/medals-eligible competition</sub></td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_competitor.png" alt="Kaggle Competitor Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_competitor.jpg" alt="Kaggle Competitor Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">March Mania Competitor<br/><sub>NCAA basketball tournament prediction series</sub></td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_march_mania_competitor.png" alt="Kaggle March Mania Competitor Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_march_mania_competitor.jpg" alt="Kaggle March Mania Competitor Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Getting Started Competitor</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_getting_started_competitor.png" alt="Kaggle Getting Started Competitor Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_getting_started_competitor.jpg" alt="Kaggle Getting Started Competitor Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Playground Competitor</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_playground_competitor.png" alt="Kaggle Playground Competitor Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_playground_competitor.jpg" alt="Kaggle Playground Competitor Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Python Coder<br/><sub>Created a Python notebook</sub></td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_python_coder.png" alt="Kaggle Python Coder Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_python_coder.jpg" alt="Kaggle Python Coder Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">R Coder<br/><sub>Created an R notebook</sub></td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_r_coder.png" alt="Kaggle R Coder Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_r_coder.jpg" alt="Kaggle R Coder Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">R Markdown Coder</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_r_markdown_coder.png" alt="Kaggle R Markdown Coder Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_r_markdown_coder.jpg" alt="Kaggle R Markdown Coder Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Dataset Creator</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_dataset_creator.png" alt="Kaggle Dataset Creator Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_dataset_creator.jpg" alt="Kaggle Dataset Creator Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Dataset Pipeline Creator<br/><sub>Dataset created from notebook output</sub></td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_dataset_pipeline_creator.png" alt="Kaggle Dataset Pipeline Creator Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_dataset_pipeline_creator.jpg" alt="Kaggle Dataset Pipeline Creator Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Linked Dataset Creator</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_linked_dataset_creator.png" alt="Kaggle Linked Dataset Creator Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_linked_dataset_creator.jpg" alt="Kaggle Linked Dataset Creator Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">API Dataset Creator</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_api_dataset_creator.png" alt="Kaggle API Dataset Creator Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_api_dataset_creator.jpg" alt="Kaggle API Dataset Creator Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Dataset Tagger</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_dataset_tagger.png" alt="Kaggle Dataset Tagger Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_dataset_tagger.jpg" alt="Kaggle Dataset Tagger Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Model Creator</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_model_creator.png" alt="Kaggle Model Creator Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_model_creator.jpg" alt="Kaggle Model Creator Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Model Variation Creator</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_model_variation_creator.png" alt="Kaggle Model Variation Creator Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_model_variation_creator.jpg" alt="Kaggle Model Variation Creator Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Linked Model Creator</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_linked_model_creator.png" alt="Kaggle Linked Model Creator Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_linked_model_creator.jpg" alt="Kaggle Linked Model Creator Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Model Tagger</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_model_tagger.png" alt="Kaggle Model Tagger Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_model_tagger.jpg" alt="Kaggle Model Tagger Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Code Uploader<br/><sub>Imported a notebook file</sub></td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_code_uploader.png" alt="Kaggle Code Uploader Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_code_uploader.jpg" alt="Kaggle Code Uploader Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">API Notebook Creator</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_api_notebook_creator.png" alt="Kaggle API Notebook Creator Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_api_notebook_creator.jpg" alt="Kaggle API Notebook Creator Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Github Coder<br/><sub>Imported/synced a notebook from GitHub</sub></td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_github_coder.png" alt="Kaggle Github Coder Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_github_coder.jpg" alt="Kaggle Github Coder Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Colab Coder</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_colab_coder.png" alt="Kaggle Colab Coder Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_colab_coder.jpg" alt="Kaggle Colab Coder Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Code Tagger</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_code_tagger.png" alt="Kaggle Code Tagger Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_code_tagger.jpg" alt="Kaggle Code Tagger Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Code Forker</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_code_forker.png" alt="Kaggle Code Forker Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_code_forker.jpg" alt="Kaggle Code Forker Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Notebook Modeler<br/><sub>Used a Kaggle Model Hub model in a notebook</sub></td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_notebook_modeler.png" alt="Kaggle Notebook Modeler Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_notebook_modeler.jpg" alt="Kaggle Notebook Modeler Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Utility Scripter</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_utility_scripter.png" alt="Kaggle Utility Scripter Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_utility_scripter.jpg" alt="Kaggle Utility Scripter Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Learner<br/><sub>Completed a Kaggle Learn course</sub></td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_learner.png" alt="Kaggle Learner Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_learner.jpg" alt="Kaggle Learner Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">5-Day AI Agents Intensive Course with Google<br/><sub>Platform badge for the cohort program</sub></td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_5day_ai_agents_badge.png" alt="Kaggle 5-Day AI Agents Intensive Course with Google Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_5day_ai_agents_badge.jpg" alt="Kaggle 5-Day AI Agents Intensive Course with Google Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">1 Year on Kaggle</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_1_year_on_kaggle.png" alt="Kaggle 1 Year on Kaggle Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_1_year_on_kaggle.jpg" alt="Kaggle 1 Year on Kaggle Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">7 Day Login Streak</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_7_day_login_streak.png" alt="Kaggle 7 Day Login Streak Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_7_day_login_streak.jpg" alt="Kaggle 7 Day Login Streak Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Kaggle Community Member</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_community_member.png" alt="Kaggle Community Member Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_community_member.jpg" alt="Kaggle Community Member Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Stylish<br/><sub>Filled out the Kaggle profile</sub></td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_stylish.png" alt="Kaggle Stylish Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_stylish.jpg" alt="Kaggle Stylish Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Collector</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_collector.png" alt="Kaggle Collector Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_collector.jpg" alt="Kaggle Collector Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Bookmarker</td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_bookmarker.png" alt="Kaggle Bookmarker Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_bookmarker.jpg" alt="Kaggle Bookmarker Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Vampire<br/><sub>Kaggle dark theme</sub></td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_vampire.png" alt="Kaggle Vampire Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_vampire.jpg" alt="Kaggle Vampire Badge Certificate" width="280px"/></td>
   </tr>
   <tr>
     <td align="left" width="60%">Agent of Discord<br/><sub>Joined and linked the Kaggle Discord</sub></td>
-    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_agent_of_discord.png" alt="Kaggle Agent of Discord Badge Certificate" width="280px"/></td>
+    <td align="center" width="40%"><img src="./assets/certificates/cert_kaggle_badge_agent_of_discord.jpg" alt="Kaggle Agent of Discord Badge Certificate" width="280px"/></td>
   </tr>
 </table>
 </div>
 
 ### 🧌  Kaggle Badges
 <div align="center">
-  <img src="./assets/kagglebadges.png" alt="Kaggle Profile Badges">
+  <img src="./assets/kagglebadges.jpg" alt="Kaggle Profile Badges">
 </div>
 
 ### 🎶  GSSOC Badges
@@ -547,34 +547,34 @@
 <div align="center">
   <table style="border-collapse: collapse; border-spacing: 0;">
     <tr>
-      <td align="center" style="padding: 5px;"><img src="./assets/50days26.png" alt="LeetCode 50 Days 2026 Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/100days26.png" alt="LeetCode 100 Days Badge 2026" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/100days.png" alt="LeetCode 100 Days Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/50days.png" alt="LeetCode 50 Days Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/26offer.png" alt="LeetCode 2026 Annual Offer Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/lc75.png" alt="LeetCode 75 Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/50days26.jpg" alt="LeetCode 50 Days 2026 Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/100days26.jpg" alt="LeetCode 100 Days Badge 2026" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/100days.jpg" alt="LeetCode 100 Days Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/50days.jpg" alt="LeetCode 50 Days Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/26offer.jpg" alt="LeetCode 2026 Annual Offer Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/lc75.jpg" alt="LeetCode 75 Badge" width="200px" /></td>
     </tr>
     <tr>
-      <td align="center" style="padding: 5px;"><img src="./assets/top150.png" alt="LeetCode Top 150 Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/top100.png" alt="LeetCode Top 100 Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/pandas.png" alt="LeetCode Pandas Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/sql50.png" alt="LeetCode SQL 50 Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/dsaquest.png" alt="LeetCode DSA Quest Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/dbmsquest.png" alt="LeetCode DBMS Quest Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/top150.jpg" alt="LeetCode Top 150 Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/top100.jpg" alt="LeetCode Top 100 Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/pandas.jpg" alt="LeetCode Pandas Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/sql50.jpg" alt="LeetCode SQL 50 Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/dsaquest.jpg" alt="LeetCode DSA Quest Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/dbmsquest.jpg" alt="LeetCode DBMS Quest Badge" width="200px" /></td>
     </tr>
     <tr>
-      <td align="center" style="padding: 5px;"><img src="./assets/mathquest.png" alt="LeetCode Math Quest Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/architecturequest.png" alt="LeetCode Architecture Quest Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/dcc25.png" alt="LeetCode Daily Coding Challenge December 2025 Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/jcc26.png" alt="LeetCode January Coding Challenge 2026 Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/fcc26.png" alt="LeetCode February Coding Challenge 2026 Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/mcc26.png" alt="LeetCode March Coding Challenge 2026 Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/mathquest.jpg" alt="LeetCode Math Quest Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/architecturequest.jpg" alt="LeetCode Architecture Quest Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/dcc25.jpg" alt="LeetCode Daily Coding Challenge December 2025 Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/jcc26.jpg" alt="LeetCode January Coding Challenge 2026 Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/fcc26.jpg" alt="LeetCode February Coding Challenge 2026 Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/mcc26.jpg" alt="LeetCode March Coding Challenge 2026 Badge" width="200px" /></td>
     </tr>
     <tr>
-      <td align="center" style="padding: 5px;"><img src="./assets/acc26.png" alt="Leetcode April Coding Challenge" width="200px"></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/maycc26.png" alt="LeetCode May Coding Challenge 2026 Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/juncc26.png" alt="LeetCode June Coding Challenge 2026 Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/200days26.png" alt="LeetCode 200 Days Badge 2026" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/acc26.jpg" alt="Leetcode April Coding Challenge" width="200px"></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/maycc26.jpg" alt="LeetCode May Coding Challenge 2026 Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/juncc26.jpg" alt="LeetCode June Coding Challenge 2026 Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/200days26.jpg" alt="LeetCode 200 Days Badge 2026" width="200px" /></td>
     </tr>
   </table>
 </div>
