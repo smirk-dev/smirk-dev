@@ -315,6 +315,11 @@
       <td align="center" style="padding: 5px;"><img src="./assets/profile_complete.png" alt="GSSoC Profile Complete Badge" width="200px" /></td>
       <td align="center" style="padding: 5px;"><img src="./assets/rising_star.png" alt="GSSoC Rising Star Badge" width="200px" /></td>
       <td align="center" style="padding: 5px;"><img src="./assets/top_100.png" alt="GSSoC Top 100 Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/gssoc_building_momentum.png" alt="GSSoC 2026 Building Momentum Badge" width="200px" /></td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 5px;"><img src="./assets/gssoc_power_contributor.png" alt="GSSoC 2026 Power Contributor Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/gssoc_week_one.png" alt="GSSoC 2026 Week 1 Streak Badge" width="200px" /></td>
     </tr>
   </table>
 </div>
@@ -352,6 +357,8 @@
       <td align="center" style="padding: 5px;"><img src="./assets/maycc26.jpg" alt="LeetCode May Coding Challenge 2026 Badge" width="200px" /></td>
       <td align="center" style="padding: 5px;"><img src="./assets/juncc26.jpg" alt="LeetCode June Coding Challenge 2026 Badge" width="200px" /></td>
       <td align="center" style="padding: 5px;"><img src="./assets/200days26.jpg" alt="LeetCode 200 Days Badge 2026" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/julcc26.png" alt="LeetCode July Coding Challenge 2026 Badge" width="200px" /></td>
+      <td align="center" style="padding: 5px;"><img src="./assets/lc365days.png" alt="LeetCode 365 Days Badge" width="200px" /></td>
     </tr>
   </table>
 </div>
