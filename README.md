@@ -27,9 +27,11 @@
 
 <div align="center">
 
-**[🎨 Projects](#-featured-projects) &nbsp;·&nbsp; [🌐 Connect](#-connect-with-me) &nbsp;·&nbsp; [🛠️ Tech Stack](#️-technology-stack) &nbsp;·&nbsp; [🏆 Achievements & Badges](#-achievements--badges) &nbsp;·&nbsp; [💬 Let's Talk](#-lets-connect-and-build-something-amazing-together)**
+**[🎨 Projects](#featured-projects) &nbsp;·&nbsp; [🌐 Connect](#connect-with-me) &nbsp;·&nbsp; [🛠️ Tech Stack](#tech-stack) &nbsp;·&nbsp; [🏆 Achievements & Badges](#achievements-badges) &nbsp;·&nbsp; [💬 Let's Talk](#lets-connect)**
 
 </div>
+
+<a id="featured-projects"></a>
 
 ### 🎨 Featured Projects
 
@@ -76,6 +78,8 @@
 
 </div>
 
+<a id="connect-with-me"></a>
+
 ### 🌐 Connect With Me
 
 <div align="center">
@@ -90,6 +94,8 @@
         </a>
 </div>
 
+
+<a id="tech-stack"></a>
 
 ### 🛠️ Technology Stack
 
@@ -164,6 +170,8 @@
     </tr>
   </table>
 </div>
+
+<a id="achievements-badges"></a>
 
 ### 🏆 Achievements & Badges
 
@@ -406,4 +414,6 @@
   <img src="https://komarev.com/ghpvc/?username=smirk-dev&label=Profile%20Views&color=B347FF&style=for-the-badge" alt="Profile Views" />
 </div>
   
+<a id="lets-connect"></a>
+
 ### 💬 Let's Connect and Build Something Amazing Together!
