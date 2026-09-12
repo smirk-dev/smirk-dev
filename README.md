@@ -25,6 +25,12 @@
   <img src="./profile-3d-contrib/profile-purple-animate.svg" alt="3D Contribution Calendar" />
 </div>
 
+<div align="center">
+
+**[🎨 Projects](#-featured-projects) &nbsp;·&nbsp; [🌐 Connect](#-connect-with-me) &nbsp;·&nbsp; [🛠️ Tech Stack](#️-technology-stack) &nbsp;·&nbsp; [🏆 Achievements & Badges](#-achievements--badges) &nbsp;·&nbsp; [💬 Let's Talk](#-lets-connect-and-build-something-amazing-together)**
+
+</div>
+
 ### 🎨 Featured Projects
 
 <div align="center">
@@ -159,9 +165,14 @@
   </table>
 </div>
 
-### 🎃 Holopin Badges
+### 🏆 Achievements & Badges
 
 <div align="center">
+
+<details open>
+<summary><b>🎃 Community & Event Badges</b></summary>
+<br>
+
   <img src="https://img.shields.io/badge/Hacktoberfest-2025-B347FF?style=for-the-badge&logo=hacktoberfest&logoColor=white" alt="Hacktoberfest 2025"/>
   <br><br>
   <a href="https://holopin.io/@smirkdev" target="_blank">
@@ -170,21 +181,25 @@
   <br><br>
   <img src="https://img.shields.io/badge/Open%20Source%20Contributor-B347FF?style=flat&logo=github&logoColor=white" alt="Open Source Contributor"/>
   <img src="https://img.shields.io/badge/Community%20Builder-B347FF?style=flat&logo=hacktoberfest&logoColor=white" alt="Community Builder"/>
-</div>
 
-### 🏆 GitHub Achievements
+</details>
 
-<div align="center">
+<details open>
+<summary><b>🏆 GitHub Trophies</b></summary>
+<br>
+
   <img
     src="https://github-trophies.vercel.app/?username=smirk-dev&theme=monokai&no-frame=true&no-bg=true&margin-w=15&margin-h=15"
     alt="GitHub Trophies"
     width="100%"
   />
-</div>
 
-### 🎓 Certificates & Achievements
+</details>
 
-<div align="center">
+<details>
+<summary><b>🎓 Certificates & Achievements — 73 certificates (click to expand)</b></summary>
+<br>
+
 <table>
   <tr>
     <td align="center" width="16%"><img src="./assets/certificates/cert_iitropar_completion.jpg" alt="Minor in Artificial Intelligence — Indian Institute of Technology, Ropar" title="Minor in Artificial Intelligence — Indian Institute of Technology, Ropar" width="130px"/></td>
@@ -291,91 +306,100 @@
     <td width="16%"></td>
   </tr>
 </table>
-</div>
 
-### 🧌  Kaggle Badges
-<div align="center">
+</details>
+
+<details>
+<summary><b>🧌 Kaggle Badges (click to expand)</b></summary>
+<br>
+
   <img src="./assets/kagglebadges.jpg" alt="Kaggle Profile Badges">
-</div>
 
-### 🎶  GSSOC Badges
-<div align="center">
-  <table style="border-collapse: collapse; border-spacing: 0;">
-    <tr>
-      <td align="center" style="padding: 5px;"><img src="./assets/first_steps.png" alt="GSSoC 2026 First Steps Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/early_bird.png" alt="GSSoC 2026 Early Bird Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/discord_verified.png" alt="GSSoC 2026 Discord Verified Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/profile_complete.png" alt="GSSoC 2026 Profile Complete Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/point_scorer.png" alt="GSSoC 2026 Point Scorer Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/rising_star.png" alt="GSSoC 2026 Rising Star Badge" width="200px" /></td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 5px;"><img src="./assets/power_contributor.png" alt="GSSoC 2026 Power Contributor Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/elite.png" alt="GSSoC 2026 Elite Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/gssoc_champion.png" alt="GSSoC 2026 GSSoC Champion Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/top_100.png" alt="GSSoC 2026 Top 100 Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/top_50.png" alt="GSSoC 2026 Top 50 Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/bounty_hunter.png" alt="GSSoC 2026 Bounty Hunter Badge" width="200px" /></td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 5px;"><img src="./assets/bounty_master.png" alt="GSSoC 2026 Bounty Master Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/getting_started.png" alt="GSSoC 2026 Getting Started Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/building_momentum.png" alt="GSSoC 2026 Building Momentum Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/on_a_roll.png" alt="GSSoC 2026 On a Roll Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/prolific.png" alt="GSSoC 2026 Prolific Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/legend.png" alt="GSSoC 2026 Legend Badge" width="200px" /></td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 5px;"><img src="./assets/week_one.png" alt="GSSoC 2026 Week 1 Streak Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/consistent.png" alt="GSSoC 2026 Consistent Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/on_fire.png" alt="GSSoC 2026 On Fire Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/unstoppable.png" alt="GSSoC 2026 Unstoppable Badge" width="200px" /></td>
-    </tr>
-  </table>
-</div>
+</details>
 
-### 🔥 LeetCode Badges
+<details>
+<summary><b>🎶 GSSoC 2026 Badges — 22 earned (click to expand)</b></summary>
+<br>
 
-<div align="center">
-  <table style="border-collapse: collapse; border-spacing: 0;">
-    <tr>
-      <td align="center" style="padding: 5px;"><img src="./assets/50days26.jpg" alt="LeetCode 50 Days 2026 Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/100days26.jpg" alt="LeetCode 100 Days Badge 2026" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/100days.jpg" alt="LeetCode 100 Days Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/50days.jpg" alt="LeetCode 50 Days Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/26offer.jpg" alt="LeetCode 2026 Annual Offer Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/lc75.jpg" alt="LeetCode 75 Badge" width="200px" /></td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 5px;"><img src="./assets/top150.jpg" alt="LeetCode Top 150 Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/top100.jpg" alt="LeetCode Top 100 Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/pandas.jpg" alt="LeetCode Pandas Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/sql50.jpg" alt="LeetCode SQL 50 Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/dsaquest.jpg" alt="LeetCode DSA Quest Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/dbmsquest.jpg" alt="LeetCode DBMS Quest Badge" width="200px" /></td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 5px;"><img src="./assets/mathquest.jpg" alt="LeetCode Math Quest Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/architecturequest.jpg" alt="LeetCode Architecture Quest Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/dcc25.jpg" alt="LeetCode Daily Coding Challenge December 2025 Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/jcc26.jpg" alt="LeetCode January Coding Challenge 2026 Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/fcc26.jpg" alt="LeetCode February Coding Challenge 2026 Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/mcc26.jpg" alt="LeetCode March Coding Challenge 2026 Badge" width="200px" /></td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 5px;"><img src="./assets/acc26.jpg" alt="Leetcode April Coding Challenge" width="200px"></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/maycc26.jpg" alt="LeetCode May Coding Challenge 2026 Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/juncc26.jpg" alt="LeetCode June Coding Challenge 2026 Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/200days26.jpg" alt="LeetCode 200 Days Badge 2026" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/julcc26.png" alt="LeetCode July Coding Challenge 2026 Badge" width="200px" /></td>
-      <td align="center" style="padding: 5px;"><img src="./assets/lc365days.png" alt="LeetCode 365 Days Badge" width="200px" /></td>
-    </tr>
-  </table>
-</div>
-  <br>
+<table style="border-collapse: collapse; border-spacing: 0;">
+  <tr>
+    <td align="center" style="padding: 5px;"><img src="./assets/first_steps.png" alt="GSSoC 2026 First Steps Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/early_bird.png" alt="GSSoC 2026 Early Bird Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/discord_verified.png" alt="GSSoC 2026 Discord Verified Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/profile_complete.png" alt="GSSoC 2026 Profile Complete Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/point_scorer.png" alt="GSSoC 2026 Point Scorer Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/rising_star.png" alt="GSSoC 2026 Rising Star Badge" width="200px" /></td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 5px;"><img src="./assets/power_contributor.png" alt="GSSoC 2026 Power Contributor Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/elite.png" alt="GSSoC 2026 Elite Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/gssoc_champion.png" alt="GSSoC 2026 GSSoC Champion Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/top_100.png" alt="GSSoC 2026 Top 100 Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/top_50.png" alt="GSSoC 2026 Top 50 Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/bounty_hunter.png" alt="GSSoC 2026 Bounty Hunter Badge" width="200px" /></td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 5px;"><img src="./assets/bounty_master.png" alt="GSSoC 2026 Bounty Master Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/getting_started.png" alt="GSSoC 2026 Getting Started Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/building_momentum.png" alt="GSSoC 2026 Building Momentum Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/on_a_roll.png" alt="GSSoC 2026 On a Roll Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/prolific.png" alt="GSSoC 2026 Prolific Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/legend.png" alt="GSSoC 2026 Legend Badge" width="200px" /></td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 5px;"><img src="./assets/week_one.png" alt="GSSoC 2026 Week 1 Streak Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/consistent.png" alt="GSSoC 2026 Consistent Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/on_fire.png" alt="GSSoC 2026 On Fire Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/unstoppable.png" alt="GSSoC 2026 Unstoppable Badge" width="200px" /></td>
+  </tr>
+</table>
 
-<div align="center">
+</details>
+
+<details>
+<summary><b>🔥 LeetCode Badges — 24 badges (click to expand)</b></summary>
+<br>
+
+<table style="border-collapse: collapse; border-spacing: 0;">
+  <tr>
+    <td align="center" style="padding: 5px;"><img src="./assets/50days26.jpg" alt="LeetCode 50 Days 2026 Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/100days26.jpg" alt="LeetCode 100 Days Badge 2026" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/100days.jpg" alt="LeetCode 100 Days Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/50days.jpg" alt="LeetCode 50 Days Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/26offer.jpg" alt="LeetCode 2026 Annual Offer Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/lc75.jpg" alt="LeetCode 75 Badge" width="200px" /></td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 5px;"><img src="./assets/top150.jpg" alt="LeetCode Top 150 Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/top100.jpg" alt="LeetCode Top 100 Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/pandas.jpg" alt="LeetCode Pandas Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/sql50.jpg" alt="LeetCode SQL 50 Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/dsaquest.jpg" alt="LeetCode DSA Quest Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/dbmsquest.jpg" alt="LeetCode DBMS Quest Badge" width="200px" /></td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 5px;"><img src="./assets/mathquest.jpg" alt="LeetCode Math Quest Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/architecturequest.jpg" alt="LeetCode Architecture Quest Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/dcc25.jpg" alt="LeetCode Daily Coding Challenge December 2025 Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/jcc26.jpg" alt="LeetCode January Coding Challenge 2026 Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/fcc26.jpg" alt="LeetCode February Coding Challenge 2026 Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/mcc26.jpg" alt="LeetCode March Coding Challenge 2026 Badge" width="200px" /></td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 5px;"><img src="./assets/acc26.jpg" alt="Leetcode April Coding Challenge" width="200px"></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/maycc26.jpg" alt="LeetCode May Coding Challenge 2026 Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/juncc26.jpg" alt="LeetCode June Coding Challenge 2026 Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/200days26.jpg" alt="LeetCode 200 Days Badge 2026" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/julcc26.png" alt="LeetCode July Coding Challenge 2026 Badge" width="200px" /></td>
+    <td align="center" style="padding: 5px;"><img src="./assets/lc365days.png" alt="LeetCode 365 Days Badge" width="200px" /></td>
+  </tr>
+</table>
+<br>
+
   <img src="https://leetcard.jacoblin.cool/smirk-dev?theme=dark&font=baloo_2&ext=heatmap" alt="LeetCode Heatmap" />
+
+</details>
+
 </div>
 
 <div align="center">
