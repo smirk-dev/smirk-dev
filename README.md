@@ -1,5 +1,17 @@
 <div align="center">
   <table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/smirk-dev/obsidian-spotify-mini-player">
+        <img src="https://github-readme-stats-xi-coral-78.vercel.app/api/pin/?username=smirk-dev&repo=obsidian-spotify-mini-player&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="Spotify Mini Player for Obsidian" width="100%"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/smirk-dev/obsidian-legible-files">
+        <img src="https://github-readme-stats-xi-coral-78.vercel.app/api/pin/?username=smirk-dev&repo=obsidian-legible-files&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="Legible Files for Obsidian" width="100%"/>
+      </a>
+    </td>
+  </tr>
     <tr>
       <td align="center">
         <img height="195px" src="https://github-readme-stats-one-bice.vercel.app/api?username=smirk-dev&show_icons=true&include_all_commits=true&include_private_commits=true&theme=transparent&hide_border=true&title_color=B347FF&icon_color=B347FF&text_color=c9d1d9&bg_color=0d1117&ring_color=B347FF&custom_title=Suryansh's%20GitHub%20Stats" alt="Suryansh Mishra github stats" />
