@@ -3,32 +3,32 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/smirk-dev/obsidian-spotify-mini-player">
-        <img src="https://github-readme-stats-xi-coral-78.vercel.app/api/pin/?username=smirk-dev&repo=obsidian-spotify-mini-player&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="Spotify Mini Player for Obsidian" width="100%"/>
+        <img src="./cards/pin-obsidian-spotify-mini-player.svg" alt="Spotify Mini Player for Obsidian" width="100%"/>
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/smirk-dev/obsidian-legible-files">
-        <img src="https://github-readme-stats-xi-coral-78.vercel.app/api/pin/?username=smirk-dev&repo=obsidian-legible-files&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="Legible Files for Obsidian" width="100%"/>
+        <img src="./cards/pin-obsidian-legible-files.svg" alt="Legible Files for Obsidian" width="100%"/>
       </a>
     </td>
   </tr>
     <tr>
       <td align="center">
-        <img height="195px" src="https://github-readme-stats-one-bice.vercel.app/api?username=smirk-dev&show_icons=true&include_all_commits=true&include_private_commits=true&theme=transparent&hide_border=true&title_color=B347FF&icon_color=B347FF&text_color=c9d1d9&bg_color=0d1117&ring_color=B347FF&custom_title=Suryansh's%20GitHub%20Stats" alt="Suryansh Mishra github stats" />
+        <img height="195" src="./cards/stats.svg" alt="Suryansh Mishra github stats" />
       </td>
       <td align="center">
-        <img height="195px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=smirk-dev&layout=compact&hide_border=true&title_color=B347FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
+        <img height="165" src="./cards/top-langs.svg" alt="Most Used Languages" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=smirk-dev&theme=neon-dark&hide_border=true&stroke=0000&background=0D1117&ring=B347FF&fire=B347FF&currStreakLabel=B347FF&sideNums=B347FF&currStreakNum=FFFFFF&sideLabels=c9d1d9&dates=c9d1d9&excludeDaysLabel=c9d1d9" />
+  <img src="./cards/streak.svg" width="495" height="195" alt="GitHub contribution streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph-amber-eight.vercel.app/graph?username=smirk-dev&custom_title=Suryansh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=B347FF&line=B347FF&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="./cards/activity.svg" width="100%" alt="GitHub Activity Graph" />
 </div>
 
 ### 📈 3D Contribution Calendar
@@ -53,36 +53,36 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/smirk-dev/BharatChain">
-        <img src="https://github-readme-stats-xi-coral-78.vercel.app/api/pin/?username=smirk-dev&repo=BharatChain&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="BharatChain" width="100%"/>
+        <img src="./cards/pin-BharatChain.svg" alt="BharatChain" width="100%"/>
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/smirk-dev/Guide-to-levelling-up-on-Github">
-        <img src="https://github-readme-stats-xi-coral-78.vercel.app/api/pin/?username=smirk-dev&repo=Guide-to-levelling-up-on-Github&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="Guide to levelling up on Github" width="100%"/>
+        <img src="./cards/pin-Guide-to-levelling-up-on-Github.svg" alt="Guide to levelling up on Github" width="100%"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/smirk-dev/Spot-The-Scam-AI">
-        <img src="https://github-readme-stats-xi-coral-78.vercel.app/api/pin/?username=smirk-dev&repo=Spot-The-Scam-AI&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="Spot The Scam AI" width="100%"/>
+        <img src="./cards/pin-Spot-The-Scam-AI.svg" alt="Spot The Scam AI" width="100%"/>
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/smirk-dev/VideoCraft">
-        <img src="https://github-readme-stats-xi-coral-78.vercel.app/api/pin/?username=smirk-dev&repo=VideoCraft&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="VideoCraft" width="100%"/>
+        <img src="./cards/pin-VideoCraft.svg" alt="VideoCraft" width="100%"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/smirk-dev/gemini-hackathon">
-        <img src="https://github-readme-stats-xi-coral-78.vercel.app/api/pin/?username=smirk-dev&repo=gemini-hackathon&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="LegalMind" width="100%"/>
+        <img src="./cards/pin-gemini-hackathon.svg" alt="LegalMind" width="100%"/>
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/smirk-dev/CodeReview-AI-Agent">
-        <img src="https://github-readme-stats-xi-coral-78.vercel.app/api/pin/?username=smirk-dev&repo=CodeReview-AI-Agent&theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF" alt="Code Review AI Agent" width="100%"/>
+        <img src="./cards/pin-CodeReview-AI-Agent.svg" alt="Code Review AI Agent" width="100%"/>
       </a>
     </td>
   </tr>
@@ -196,7 +196,7 @@
   <img src="https://img.shields.io/badge/Hacktoberfest-2025-B347FF?style=for-the-badge&logo=hacktoberfest&logoColor=white" alt="Hacktoberfest 2025"/>
   <br><br>
   <a href="https://holopin.io/@smirkdev" target="_blank">
-    <img src="https://holopin.me/smirkdev" alt="Holopin Badges" />
+    <img src="./cards/holopin.png" width="800" alt="Holopin Badges" />
   </a>
   <br><br>
   <img src="https://img.shields.io/badge/Open%20Source%20Contributor-B347FF?style=flat&logo=github&logoColor=white" alt="Open Source Contributor"/>
@@ -209,7 +209,7 @@
 <br>
 
   <img
-    src="https://github-trophies.vercel.app/?username=smirk-dev&theme=monokai&no-frame=true&no-bg=true&margin-w=15&margin-h=15"
+    src="./cards/trophies.svg"
     alt="GitHub Trophies"
     width="100%"
   />
@@ -333,7 +333,7 @@
 <summary><b>🧌 Kaggle Badges — 34 badges, live (click to expand)</b></summary>
 <br>
 
-  <img src="https://kaggle-readme-badges.vercel.app/api/kaggle-badges" alt="Kaggle Profile Badges">
+  <img src="./cards/kaggle-badges.svg" alt="Kaggle Profile Badges">
 
 </details>
 
@@ -416,7 +416,7 @@
 </table>
 <br>
 
-  <img src="https://leetcard.jacoblin.cool/smirk-dev?theme=dark&font=baloo_2&ext=heatmap" alt="LeetCode Heatmap" />
+  <img src="./cards/leetcode.svg" alt="LeetCode Heatmap" />
 
 </details>
 
