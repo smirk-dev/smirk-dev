@@ -16,6 +16,7 @@ on:
     paths:
       - ".github/workflows/profile-cards.yml"
       - "scripts/**"
+      - "achievements/**"
 
 permissions:
   contents: write
@@ -23,9 +24,6 @@ permissions:
 concurrency:
   group: profile-cards
   cancel-in-progress: false
-
-env:
-  CARD_STYLE: theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF
 
 jobs:
   build:
@@ -36,13 +34,6 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-
-      # Streak + activity graph: own renderer, built-in GITHUB_TOKEN (never expires).
-      - name: Streak and activity graph
-        continue-on-error: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node scripts/contrib-cards.mjs smirk-dev cards
 
       # Stats + languages: try METRICS_TOKEN first (counts private commits),
       # fall back to GITHUB_TOKEN if that PAT is missing or expired.
@@ -88,40 +79,6 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: "true"
 
-      # Pinned repo cards (public repos: GITHUB_TOKEN is enough).
-      - name: Pin obsidian-spotify-mini-player
-        continue-on-error: true
-        uses: stats-organization/github-readme-stats-action@v2
-        with: { card: pin, options: "username=smirk-dev&repo=obsidian-spotify-mini-player&${{ env.CARD_STYLE }}", path: cards/pin-obsidian-spotify-mini-player.svg, token: "${{ secrets.GITHUB_TOKEN }}", fail_on_error: "true" }
-      - name: Pin obsidian-legible-files
-        continue-on-error: true
-        uses: stats-organization/github-readme-stats-action@v2
-        with: { card: pin, options: "username=smirk-dev&repo=obsidian-legible-files&${{ env.CARD_STYLE }}", path: cards/pin-obsidian-legible-files.svg, token: "${{ secrets.GITHUB_TOKEN }}", fail_on_error: "true" }
-      - name: Pin BharatChain
-        continue-on-error: true
-        uses: stats-organization/github-readme-stats-action@v2
-        with: { card: pin, options: "username=smirk-dev&repo=BharatChain&${{ env.CARD_STYLE }}", path: cards/pin-BharatChain.svg, token: "${{ secrets.GITHUB_TOKEN }}", fail_on_error: "true" }
-      - name: Pin Guide-to-levelling-up-on-Github
-        continue-on-error: true
-        uses: stats-organization/github-readme-stats-action@v2
-        with: { card: pin, options: "username=smirk-dev&repo=Guide-to-levelling-up-on-Github&${{ env.CARD_STYLE }}", path: cards/pin-Guide-to-levelling-up-on-Github.svg, token: "${{ secrets.GITHUB_TOKEN }}", fail_on_error: "true" }
-      - name: Pin Spot-The-Scam-AI
-        continue-on-error: true
-        uses: stats-organization/github-readme-stats-action@v2
-        with: { card: pin, options: "username=smirk-dev&repo=Spot-The-Scam-AI&${{ env.CARD_STYLE }}", path: cards/pin-Spot-The-Scam-AI.svg, token: "${{ secrets.GITHUB_TOKEN }}", fail_on_error: "true" }
-      - name: Pin VideoCraft
-        continue-on-error: true
-        uses: stats-organization/github-readme-stats-action@v2
-        with: { card: pin, options: "username=smirk-dev&repo=VideoCraft&${{ env.CARD_STYLE }}", path: cards/pin-VideoCraft.svg, token: "${{ secrets.GITHUB_TOKEN }}", fail_on_error: "true" }
-      - name: Pin gemini-hackathon
-        continue-on-error: true
-        uses: stats-organization/github-readme-stats-action@v2
-        with: { card: pin, options: "username=smirk-dev&repo=gemini-hackathon&${{ env.CARD_STYLE }}", path: cards/pin-gemini-hackathon.svg, token: "${{ secrets.GITHUB_TOKEN }}", fail_on_error: "true" }
-      - name: Pin CodeReview-AI-Agent
-        continue-on-error: true
-        uses: stats-organization/github-readme-stats-action@v2
-        with: { card: pin, options: "username=smirk-dev&repo=CodeReview-AI-Agent&${{ env.CARD_STYLE }}", path: cards/pin-CodeReview-AI-Agent.svg, token: "${{ secrets.GITHUB_TOKEN }}", fail_on_error: "true" }
-
       # Third-party cards with no GitHub data: snapshot, validate, optimize.
       - name: Snapshot third-party cards
         run: |
@@ -136,6 +93,14 @@ jobs:
               git checkout -- "$f" 2>/dev/null || rm -f "$f"
             fi
           done
+
+      # The README board. Reads the stats/top-langs/kaggle cards built above, so
+      # it runs last; any section whose data is missing keeps its last good SVG.
+      - name: Circuit board cards
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/board.mjs
 
       - name: Commit
         run: |

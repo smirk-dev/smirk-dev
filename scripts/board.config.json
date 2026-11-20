@@ -1,0 +1,39 @@
+{
+  "user": "smirk-dev",
+  "name": ["SURYANSH", "MISHRA"],
+  "subtitle": "B.TECH CSE UPES · MINOR AI IIT ROPAR",
+  "location": "NOIDA, IN · UTC+05:30",
+  "links": [
+    { "id": "portfolio", "ref": "J1", "label": "PORTFOLIO", "href": "https://suryanshmishra.vercel.app" },
+    { "id": "linkedin", "ref": "J2", "label": "LINKEDIN", "href": "https://linkedin.com/in/connectwithsuryanshmishra" },
+    { "id": "linktree", "ref": "J3", "label": "LINKTREE", "href": "https://linktr.ee/mishrasuryansh" }
+  ],
+  "featured": [
+    { "repo": "Guide-to-levelling-up-on-Github", "desc": "Master GitHub profile stats and trophies" },
+    { "repo": "BharatChain", "desc": "Blockchain + AI document verification for public services" },
+    { "repo": "CodeReview-AI-Agent", "desc": "Multi-agent automated code review on Google ADK" },
+    { "repo": "gemini-hackathon", "desc": "LegalMind: your pocket legal AI agent" },
+    { "repo": "VideoCraft", "desc": "AI for film editing, final project for IIT Ropar" },
+    { "repo": "Spot-The-Scam-AI", "desc": "NLP model that flags fraudulent job listings" },
+    { "repo": "obsidian-spotify-mini-player", "desc": "Spotify remote control inside Obsidian" },
+    { "repo": "obsidian-legible-files", "desc": "Plain-text files readable in the Obsidian explorer" }
+  ],
+  "stack": [
+    "Python", "TypeScript", "JavaScript", "C++", "Java", "Go", "Rust", "Kotlin",
+    "React", "Next.js", "Vue", "Tailwind", "Node", "FastAPI", "Django", "GraphQL",
+    "PyTorch", "TensorFlow", "Claude", "OpenAI", "Gemini", "LangChain", "Hugging Face", "Ollama",
+    "PostgreSQL", "MongoDB", "Redis", "Supabase", "Docker", "Kubernetes", "AWS", "GCP",
+    "Vercel", "Kali", "Burp Suite", "Wireshark"
+  ],
+  "achievements": [
+    { "id": "certificates", "tp": "TP1", "label": "Certificates", "color": "#B347FF", "count": "page", "page": "achievements/certificates.md",
+      "top": ["Minor in AI · IIT Ropar", "InboxKit full-time offer", "Anveshan 2025 runner-up"] },
+    { "id": "kaggle", "tp": "TP2", "label": "Kaggle badges", "color": "#00E5FF", "count": "kaggle", "page": "achievements/kaggle.md",
+      "top": ["AI Agents Intensive", "1 Year on Kaggle", "Dataset Pipeline Creator"] },
+    { "id": "leetcode", "tp": "TP3", "label": "LeetCode badges", "color": "#FF3DCB", "count": "page", "page": "achievements/leetcode.md",
+      "top": ["100 Days Badge 2026", "Top 150", "LeetCode 75"] },
+    { "id": "gssoc", "tp": "TP4", "label": "GSSoC 2026", "color": "#FFB020", "count": "page", "page": "achievements/gssoc.md",
+      "top": ["Elite", "Power Contributor", "Rising Star"] }
+  ],
+  "community": { "page": "achievements/community.md", "text": "MORE: HACKTOBERFEST 2025 · HOLOPIN · TROPHIES" }
+}
