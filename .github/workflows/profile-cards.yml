@@ -1,0 +1,148 @@
+name: Profile cards
+
+# Builds every dynamic README card inside this repo and commits it to cards/.
+# The README embeds ./cards/*, so the profile never depends on a third-party
+# Vercel instance or a personal token being alive at view time.
+#
+# Every step keeps the last good file when its source fails, so a bad run
+# never puts an error card or a broken image on the profile.
+
+on:
+  schedule:
+    - cron: "23 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/profile-cards.yml"
+      - "scripts/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: false
+
+env:
+  CARD_STYLE: theme=dark&title_color=B347FF&text_color=ffffff&bg_color=0d1117&border_color=B347FF
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # Streak + activity graph: own renderer, built-in GITHUB_TOKEN (never expires).
+      - name: Streak and activity graph
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/contrib-cards.mjs smirk-dev cards
+
+      # Stats + languages: try METRICS_TOKEN first (counts private commits),
+      # fall back to GITHUB_TOKEN if that PAT is missing or expired.
+      - name: Stats card (PAT)
+        id: stats_pat
+        continue-on-error: true
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: '{"username":"smirk-dev","show_icons":true,"include_all_commits":true,"count_private":true,"theme":"transparent","hide_border":true,"title_color":"B347FF","icon_color":"B347FF","text_color":"c9d1d9","bg_color":"0d1117","ring_color":"B347FF","custom_title":"Suryansh''s GitHub Stats"}'
+          path: cards/stats.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          fail_on_error: "true"
+      - name: Stats card (fallback)
+        if: steps.stats_pat.outcome == 'failure'
+        continue-on-error: true
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: '{"username":"smirk-dev","show_icons":true,"include_all_commits":true,"theme":"transparent","hide_border":true,"title_color":"B347FF","icon_color":"B347FF","text_color":"c9d1d9","bg_color":"0d1117","ring_color":"B347FF","custom_title":"Suryansh''s GitHub Stats"}'
+          path: cards/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: "true"
+
+      - name: Top languages (PAT)
+        id: langs_pat
+        continue-on-error: true
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=smirk-dev&layout=compact&hide_border=true&title_color=B347FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6&custom_title=Most%20Used%20Languages
+          path: cards/top-langs.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          fail_on_error: "true"
+      - name: Top languages (fallback)
+        if: steps.langs_pat.outcome == 'failure'
+        continue-on-error: true
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=smirk-dev&layout=compact&hide_border=true&title_color=B347FF&text_color=c9d1d9&bg_color=0d1117&langs_count=6&custom_title=Most%20Used%20Languages
+          path: cards/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: "true"
+
+      # Pinned repo cards (public repos: GITHUB_TOKEN is enough).
+      - name: Pin obsidian-spotify-mini-player
+        continue-on-error: true
+        uses: stats-organization/github-readme-stats-action@v2
+        with: { card: pin, options: "username=smirk-dev&repo=obsidian-spotify-mini-player&${{ env.CARD_STYLE }}", path: cards/pin-obsidian-spotify-mini-player.svg, token: "${{ secrets.GITHUB_TOKEN }}", fail_on_error: "true" }
+      - name: Pin obsidian-legible-files
+        continue-on-error: true
+        uses: stats-organization/github-readme-stats-action@v2
+        with: { card: pin, options: "username=smirk-dev&repo=obsidian-legible-files&${{ env.CARD_STYLE }}", path: cards/pin-obsidian-legible-files.svg, token: "${{ secrets.GITHUB_TOKEN }}", fail_on_error: "true" }
+      - name: Pin BharatChain
+        continue-on-error: true
+        uses: stats-organization/github-readme-stats-action@v2
+        with: { card: pin, options: "username=smirk-dev&repo=BharatChain&${{ env.CARD_STYLE }}", path: cards/pin-BharatChain.svg, token: "${{ secrets.GITHUB_TOKEN }}", fail_on_error: "true" }
+      - name: Pin Guide-to-levelling-up-on-Github
+        continue-on-error: true
+        uses: stats-organization/github-readme-stats-action@v2
+        with: { card: pin, options: "username=smirk-dev&repo=Guide-to-levelling-up-on-Github&${{ env.CARD_STYLE }}", path: cards/pin-Guide-to-levelling-up-on-Github.svg, token: "${{ secrets.GITHUB_TOKEN }}", fail_on_error: "true" }
+      - name: Pin Spot-The-Scam-AI
+        continue-on-error: true
+        uses: stats-organization/github-readme-stats-action@v2
+        with: { card: pin, options: "username=smirk-dev&repo=Spot-The-Scam-AI&${{ env.CARD_STYLE }}", path: cards/pin-Spot-The-Scam-AI.svg, token: "${{ secrets.GITHUB_TOKEN }}", fail_on_error: "true" }
+      - name: Pin VideoCraft
+        continue-on-error: true
+        uses: stats-organization/github-readme-stats-action@v2
+        with: { card: pin, options: "username=smirk-dev&repo=VideoCraft&${{ env.CARD_STYLE }}", path: cards/pin-VideoCraft.svg, token: "${{ secrets.GITHUB_TOKEN }}", fail_on_error: "true" }
+      - name: Pin gemini-hackathon
+        continue-on-error: true
+        uses: stats-organization/github-readme-stats-action@v2
+        with: { card: pin, options: "username=smirk-dev&repo=gemini-hackathon&${{ env.CARD_STYLE }}", path: cards/pin-gemini-hackathon.svg, token: "${{ secrets.GITHUB_TOKEN }}", fail_on_error: "true" }
+      - name: Pin CodeReview-AI-Agent
+        continue-on-error: true
+        uses: stats-organization/github-readme-stats-action@v2
+        with: { card: pin, options: "username=smirk-dev&repo=CodeReview-AI-Agent&${{ env.CARD_STYLE }}", path: cards/pin-CodeReview-AI-Agent.svg, token: "${{ secrets.GITHUB_TOKEN }}", fail_on_error: "true" }
+
+      # Third-party cards with no GitHub data: snapshot, validate, optimize.
+      - name: Snapshot third-party cards
+        run: |
+          python3 -c "import PIL" 2>/dev/null || pip install --quiet pillow
+          bash scripts/snapshot.sh cards
+
+      - name: Drop any error card that slipped through
+        run: |
+          for f in cards/*.svg; do
+            if grep -qiE "something went wrong|can't fetch|rate limiting" "$f"; then
+              echo "::warning::$f is an error card; restoring the committed version"
+              git checkout -- "$f" 2>/dev/null || rm -f "$f"
+            fi
+          done
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cards
+          git diff --staged --quiet && { echo "No changes"; exit 0; }
+          git commit -m "chore: update profile cards"
+          for i in 1 2 3; do git pull --rebase --autostash && git push && exit 0; sleep 5; done
+          exit 1

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="GitHub contribution streak">
+<title>smirk-dev: 10,499 contributions, current streak 10, longest 124</title>
+<style>
+  text{font-family:'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif}
+  .num{font-size:28px;font-weight:700}
+  .lbl{font-size:14px;font-weight:400}
+  .dt{font-size:12px;font-weight:400}
+  @keyframes f{from{opacity:0}to{opacity:1}}
+  .a{animation:f .6s ease-in-out forwards;opacity:0}
+</style>
+<rect width="495" height="195" rx="4.5" fill="#0D1117"/>
+<g text-anchor="middle">
+  <g class="a" style="animation-delay:.2s">
+    <text x="82.5" y="79" class="num" fill="#B347FF">10,499</text>
+    <text x="82.5" y="114" class="lbl" fill="#c9d1d9">Total Contributions</text>
+    <text x="82.5" y="139" class="dt" fill="#c9d1d9">Jul 2, 2024 - Present</text>
+  </g>
+  <g>
+    <mask id="ringGap"><rect width="495" height="195" fill="#fff"/><ellipse cx="247.5" cy="32" rx="13" ry="18" fill="#000"/></mask>
+    <circle cx="247.5" cy="71" r="40" fill="none" stroke="#B347FF" stroke-width="5" mask="url(#ringGap)"/>
+    <path transform="translate(236.5 20)" fill="#B347FF" d="M11 0C11 0 3 7.5 3 14.2C3 18.6 6.6 22 11 22C15.4 22 19 18.6 19 14.2C19 10.5 16.6 7.3 15.3 6C15.3 9 13.6 10.8 12 11.2C13 7.6 12.4 3.3 11 0Z"/>
+    <text x="247.5" y="83" class="num a" fill="#FFFFFF" style="animation-delay:.4s">10</text>
+    <text x="247.5" y="139" class="lbl a" fill="#B347FF" font-weight="700" style="animation-delay:.5s">Current Streak</text>
+    <text x="247.5" y="160" class="dt a" fill="#c9d1d9" style="animation-delay:.6s">Nov 10 - Nov 19</text>
+  </g>
+  <g class="a" style="animation-delay:.7s">
+    <text x="412.5" y="79" class="num" fill="#B347FF">124</text>
+    <text x="412.5" y="114" class="lbl" fill="#c9d1d9">Longest Streak</text>
+    <text x="412.5" y="139" class="dt" fill="#c9d1d9">Jun 4, 2025 - Oct 5, 2025</text>
+  </g>
+</g>
+</svg>

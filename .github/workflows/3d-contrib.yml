@@ -31,5 +31,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile-3d-contrib/*.svg
-          git diff --staged --quiet || git commit -m "chore: update 3d contribution svg"
-          git push
+          git diff --staged --quiet && exit 0
+          git commit -m "chore: update 3d contribution svg"
+          for i in 1 2 3; do git pull --rebase --autostash && git push && exit 0; sleep 5; done
+          exit 1
