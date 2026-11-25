@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Suryansh&#39;s GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 1056, Total Commits  : 13493, Total PRs: 259, Total Issues: 65, Contributed to (last year): 21</desc>
+        <desc id="descId">Total Stars Earned: 1056, Total Commits  : 13542, Total PRs: 259, Total Issues: 65, Contributed to (last year): 21</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 15.55004987682384;
+        stroke-dashoffset: 15.549928549656434;
       }
     }
   
